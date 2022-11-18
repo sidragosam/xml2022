@@ -1,0 +1,23 @@
+[
+  { "episodeNumber":3, "seasonNumber":2, "UID":"EPMA0000000444", "title":"Friday's Child" },
+  { "episodeNumber":10, "seasonNumber":2, "UID":"EPMA0000000451", "title":"Mirror, Mirror" },
+  { "episodeNumber":12, "seasonNumber":2, "UID":"EPMA0000000453", "title":"I, Mudd" },
+  {
+    "episodeNumber": 13,
+    "seasonNumber": 2,
+    "UID": "EPMA0000000454",
+    "title": "The Trouble with Tribbles"
+  },
+  {
+    "episodeNumber": 17,
+    "seasonNumber": 2,
+    "UID": "EPMA0000000458",
+    "title": "The Gamesters of Triskelion"
+  },
+  {
+    "episodeNumber": 19,
+    "seasonNumber": 2,
+    "UID": "EPMA0000000460",
+    "title": "The Immunity Syndrome"
+  }
+]
