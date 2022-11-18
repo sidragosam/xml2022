@@ -7,10 +7,10 @@ declare option output:method "json";
 declare option output:media-type "application/json";
 
 declare function local:getEpisodeByName($name){
-    let $episodes := json-doc("http://stapi.co/api/v1/rest/episode?uid=EPMA0000001378")?*
+    let $episodes := json-doc("http://stapi.co/api/v1/rest/episode/search")?episodes?*
     return $episodes[?title eq $name]
 };
 
-let $result :=local:getEpisodeByName("The Drumhead")
+let $result :=local:getEpisodeByName("The Savage Curtain")
 
 return array {$result}
