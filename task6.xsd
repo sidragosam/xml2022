@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" >
+    
+    <xs:element name="performers">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="performer" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+			<xs:attribute name="males" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="performer">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="birthname" minOccurs="0" maxOccurs="1"/>
+				<xs:element name="gender" minOccurs="0" maxOccurs="1"/>
+				<xs:element name="dateofbirth" minOccurs="0" maxOccurs="1"/>
+            </xs:sequence>
+            <xs:attribute name="uid" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>
