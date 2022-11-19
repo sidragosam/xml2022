@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seasons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="task7.xsd">
+    <season season="Star Trek: Deep Space Nine" uid="SEMA0000073238">
+        <episodenumber>26"</episodenumber>
+        <title>DS9 Season 2</title>
+    </season>
+    <season season="Star Trek: Deep Space Nine" uid="SEMA0000073238">
+        <episodenumber>26"</episodenumber>
+        <title>DS9 Season 3</title>
+    </season>
+    <season season="Star Trek: Deep Space Nine" uid="SEMA0000073238">
+        <episodenumber>25"</episodenumber>
+        <title>DS9 Season 4</title>
+    </season>
+    <season season="Star Trek: Deep Space Nine" uid="SEMA0000073238">
+        <episodenumber>26"</episodenumber>
+        <title>DS9 Season 5</title>
+    </season>
+    <season season="Star Trek: Deep Space Nine" uid="SEMA0000073238">
+        <episodenumber>26"</episodenumber>
+        <title>DS9 Season 6</title>
+    </season>
+    <season season="Star Trek: Deep Space Nine" uid="SEMA0000073238">
+        <episodenumber>25"</episodenumber>
+        <title>DS9 Season 7</title>
+    </season>
+    <season season="Star Trek: Enterprise" uid="SEMA0000103435">
+        <episodenumber>25"</episodenumber>
+        <title>ENT Season 1</title>
+    </season>
+    <season season="Star Trek: Enterprise" uid="SEMA0000103435">
+        <episodenumber>26"</episodenumber>
+        <title>ENT Season 2</title>
+    </season>
+    <season season="Star Trek: Enterprise" uid="SEMA0000103435">
+        <episodenumber>24"</episodenumber>
+        <title>ENT Season 3</title>
+    </season>
+    <season season="Star Trek: Enterprise" uid="SEMA0000103435">
+        <episodenumber>22"</episodenumber>
+        <title>ENT Season 4</title>
+    </season>
+    <season season="Star Trek: The Next Generation" uid="SEMA0000062876">
+        <episodenumber>25"</episodenumber>
+        <title>TNG Season 1</title>
+    </season>
+    <season season="Star Trek: The Next Generation" uid="SEMA0000062876">
+        <episodenumber>22"</episodenumber>
+        <title>TNG Season 2</title>
+    </season>
+    <season season="Star Trek: The Next Generation" uid="SEMA0000062876">
+        <episodenumber>26"</episodenumber>
+        <title>TNG Season 3</title>
+    </season>
+    <season season="Star Trek: The Next Generation" uid="SEMA0000062876">
+        <episodenumber>26"</episodenumber>
+        <title>TNG Season 4</title>
+    </season>
+    <season season="Star Trek: The Next Generation" uid="SEMA0000062876">
+        <episodenumber>26"</episodenumber>
+        <title>TNG Season 5</title>
+    </season>
+    <season season="Star Trek: The Next Generation" uid="SEMA0000062876">
+        <episodenumber>26"</episodenumber>
+        <title>TNG Season 6</title>
+    </season>
+    <season season="Star Trek: The Next Generation" uid="SEMA0000062876">
+        <episodenumber>25"</episodenumber>
+        <title>TNG Season 7</title>
+    </season>
+    <season season="Star Trek: The Original Series" uid="SEMA0000097474">
+        <episodenumber>30"</episodenumber>
+        <title>TOS Season 1</title>
+    </season>
+    <season season="Star Trek: The Original Series" uid="SEMA0000097474">
+        <episodenumber>26"</episodenumber>
+        <title>TOS Season 2</title>
+    </season>
+    <season season="Star Trek: The Original Series" uid="SEMA0000097474">
+        <episodenumber>24"</episodenumber>
+        <title>TOS Season 3</title>
+    </season>
+    <season season="Star Trek: Voyager" uid="SEMA0000000029">
+        <episodenumber>26"</episodenumber>
+        <title>VOY Season 2</title>
+    </season>
+    <season season="Star Trek: Voyager" uid="SEMA0000000029">
+        <episodenumber>26"</episodenumber>
+        <title>VOY Season 3</title>
+    </season>
+    <season season="Star Trek: Voyager" uid="SEMA0000000029">
+        <episodenumber>26"</episodenumber>
+        <title>VOY Season 4</title>
+    </season>
+    <season season="Star Trek: Voyager" uid="SEMA0000000029">
+        <episodenumber>25"</episodenumber>
+        <title>VOY Season 5</title>
+    </season>
+    <season season="Star Trek: Voyager" uid="SEMA0000000029">
+        <episodenumber>26"</episodenumber>
+        <title>VOY Season 6</title>
+    </season>
+    <season season="Star Trek: Voyager" uid="SEMA0000000029">
+        <episodenumber>24"</episodenumber>
+        <title>VOY Season 7</title>
+    </season>
+</seasons>
