@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<episodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="task5.xsd">
+    <episode uid="EPMA0000000479" seasonnum="3" epnum="12">
+        <title>Plato's Stepchildren</title>
+        <titlegerman>Platons Stiefkinder</titlegerman>
+        <titleitalian>Umiliati per forza maggiore</titleitalian>
+        <seasontitle>TOS Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000009713" seasonnum="4" epnum="7">
+        <title>The Forge</title>
+        <titlegerman>Der Anschlag</titlegerman>
+        <titleitalian>La Fornace</titleitalian>
+        <seasontitle>ENT Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006777" seasonnum="1" epnum="17">
+        <title>Shore Leave</title>
+        <titlegerman>Landeurlaub</titlegerman>
+        <titleitalian>Licenza di sbarco</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000458" seasonnum="2" epnum="17">
+        <title>The Gamesters of Triskelion</title>
+        <titlegerman>Meister der Sklaven</titlegerman>
+        <titleitalian>La posta in gioco</titleitalian>
+        <seasontitle>TOS Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000486" seasonnum="3" epnum="18">
+        <title>The Lights of Zetar</title>
+        <titlegerman>Strahlen greifen an</titlegerman>
+        <titleitalian>Le speranze di Zetar</titleitalian>
+        <seasontitle>TOS Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006964" seasonnum="2" epnum="2">
+        <title>Bem</title>
+        <titlegerman>Gefährliche Prüfung</titlegerman>
+        <titleitalian>Il comandante Bem</titleitalian>
+        <seasontitle>TAS Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001450" seasonnum="7" epnum="17">
+        <title>Masks</title>
+        <titlegerman>Der Komet</titlegerman>
+        <titleitalian>Maschere</titleitalian>
+        <seasontitle>TNG Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000003481" seasonnum="2" epnum="11">
+        <title>Precious Cargo</title>
+        <titlegerman>Kostbare Fracht</titlegerman>
+        <titleitalian>Un carico prezioso</titleitalian>
+        <seasontitle>ENT Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001426" seasonnum="6" epnum="19">
+        <title>Lessons</title>
+        <titlegerman>Der Feuersturm</titlegerman>
+        <titleitalian>Amore e dovere</titleitalian>
+        <seasontitle>TNG Season 6</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000134" seasonnum="1" epnum="8">
+        <title>Balance of Terror</title>
+        <titlegerman>Spock unter Verdacht</titlegerman>
+        <titleitalian>La navicella invisibile</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000496" seasonnum="1" epnum="6">
+        <title>Where No One Has Gone Before</title>
+        <titlegerman>Der Reisende</titlegerman>
+        <titleitalian>Dove nessuno è mai giunto prima</titleitalian>
+        <seasontitle>TNG Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001395" seasonnum="5" epnum="14">
+        <title>Conundrum</title>
+        <titlegerman>Mission ohne Gedächtnis</titlegerman>
+        <titleitalian>Amnesia</titleitalian>
+        <seasontitle>TNG Season 5</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001355" seasonnum="3" epnum="22">
+        <title>The Most Toys</title>
+        <titlegerman>Der Sammler</titlegerman>
+        <titleitalian>Il collezionista</titleitalian>
+        <seasontitle>TNG Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006767" seasonnum="1" epnum="1">
+        <title>The Man Trap</title>
+        <titlegerman>Das Letzte seiner Art</titlegerman>
+        <titleitalian>Trappola umana</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000014329" seasonnum="4" epnum="17">
+        <title>Bound</title>
+        <titlegerman>Die Verbindung</titlegerman>
+        <titleitalian>Le schiave di Orione</titleitalian>
+        <seasontitle>ENT Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001333" seasonnum="2" epnum="20">
+        <title>The Emissary</title>
+        <titlegerman>Klingonenbegegnung</titlegerman>
+        <titleitalian>L'emissario</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001369" seasonnum="4" epnum="11">
+        <title>Data's Day</title>
+        <titlegerman>Datas Tag</titlegerman>
+        <titleitalian>Una giornata di Data</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001402" seasonnum="5" epnum="21">
+        <title>The Perfect Mate</title>
+        <titlegerman>Eine hoffnungslose Romanze</titlegerman>
+        <titleitalian>La donna perfetta</titleitalian>
+        <seasontitle>TNG Season 5</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000453" seasonnum="2" epnum="12">
+        <title>I, Mudd</title>
+        <titlegerman>Der dressierte Herrscher</titlegerman>
+        <titleitalian>Io, Mudd</titleitalian>
+        <seasontitle>TOS Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001316" seasonnum="2" epnum="6">
+        <title>The Schizoid Man</title>
+        <titlegerman>Das fremde Gedächtnis</titlegerman>
+        <titleitalian>L'uomo schizoide</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000491" seasonnum="1" epnum="4">
+        <title>Code of Honor</title>
+        <titlegerman>Der Ehrenkodex</titlegerman>
+        <titleitalian>Codice d'onore</titleitalian>
+        <seasontitle>TNG Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001497" seasonnum="2" epnum="24">
+        <title>Tuvix</title>
+        <titlegerman>Tuvix</titlegerman>
+        <titleitalian>Tuvix</titleitalian>
+        <seasontitle>VOY Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001436" seasonnum="7" epnum="2">
+        <title>Liaisons</title>
+        <titlegerman>Indiskretionen</titlegerman>
+        <titleitalian>Diplomazia spaziale</titleitalian>
+        <seasontitle>TNG Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000474" seasonnum="3" epnum="7">
+        <title>Is There in Truth No Beauty?</title>
+        <titlegerman>Die fremde Materie</titlegerman>
+        <titleitalian>La bellezza è verità?</titleitalian>
+        <seasontitle>TOS Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001437" seasonnum="7" epnum="3">
+        <title>Interface</title>
+        <titlegerman>Das Interface</titlegerman>
+        <titleitalian>L'interfaccia</titleitalian>
+        <seasontitle>TNG Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000513" seasonnum="1" epnum="22">
+        <title>Symbiosis</title>
+        <titlegerman>Die Seuche</titlegerman>
+        <titleitalian>Simbiosi</titleitalian>
+        <seasontitle>TNG Season 1</seasontitle>
+    </episode>
+</episodes>
