@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soundtracks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="task4.xsd">
+    <soundtrack uid="SOMA0000185593">
+        <title>Encounter at Farpoint/The Arsenal of Freedom</title>
+        <releasedate>2014-02-26</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000172249">
+        <title>Star Trek: Deep Space Nine Collection</title>
+        <releasedate>2013-02-12</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000183047">
+        <title>Star Trek Nemesis</title>
+        <releasedate>2013-12-09</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000216769">
+        <title>Star Trek: 50th Anniversary Collection</title>
+        <releasedate>2016-11-29</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000239164">
+        <title>Star Trek Nemesis</title>
+        <releasedate>2018-09-14</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000231117">
+        <title>Star Trek: Discovery - Season 1, Chapter 1</title>
+        <releasedate>2017-12-15</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000188113">
+        <title>Star Trek - First Contact &amp; Insurrection Original Soundtracks</title>
+        <releasedate>2011-09-23</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000220086">
+        <title>The Music of Star Trek</title>
+        <releasedate>2009-08-11</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000152568">
+        <title>Star Trek: The Next Generation Collection, Volume One</title>
+        <releasedate>2011-07-20</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000152564">
+        <title>Star Trek V: The Final Frontier</title>
+        <releasedate>2010-11-30</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000162309">
+        <title>Star Trek: The Motion Picture</title>
+        <releasedate>2012-06-05</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000188121">
+        <title>Star Trek - Newly Recorded Music, Volume One</title>
+        <releasedate>1990-10-25</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000065247">
+        <title>Star Trek V: The Final Frontier</title>
+        <releasedate>1989-06-27</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000067237">
+        <title>Star Trek IV: The Voyage Home</title>
+        <releasedate>1986-10-25</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000159834">
+        <title>Star Trek VI: The Undiscovered Country</title>
+        <releasedate>2012-02-28</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000065242">
+        <title>Star Trek: First Contact</title>
+        <releasedate>1996-12-11</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000188122">
+        <title>Star Trek - Newly Recorded Music, Volume Two</title>
+        <releasedate>1990-10-25</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000190401">
+        <title>Star Trek Into Darkness: The Deluxe Edition</title>
+        <releasedate>2014-07-28</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000237799">
+        <title>Star Trek: Discovery - Season 1, Chapters 1 &amp; 2</title>
+        <releasedate>2018-08-17</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000186078">
+        <title>Emissary</title>
+        <releasedate>1993-06-29</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000065804">
+        <title>Star Trek Generations</title>
+        <releasedate>1994-12-07</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000204067">
+        <title>Star Trek: The Next Generation Collection, Volume Two</title>
+        <releasedate>2016-01-12</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000067236">
+        <title>Star Trek III: The Search for Spock</title>
+        <releasedate>1991-01-21</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000065252">
+        <title>Star Trek Nemesis</title>
+        <releasedate>2002-11-26</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000160942">
+        <title>Star Trek: First Contact</title>
+        <releasedate>2012-04-02</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000065808">
+        <title>Star Trek VI: The Undiscovered Country</title>
+        <releasedate>1991-12-10</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000217524">
+        <title>Star Trek Beyond: The Deluxe Edition</title>
+        <releasedate>2016-12-12</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000173487">
+        <title>Star Trek Into Darkness</title>
+        <releasedate>2013-05-21</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000188092">
+        <title>Broken Bow</title>
+        <releasedate>2002-05-14</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000112380">
+        <title>Star Trek</title>
+        <releasedate>2009-05-05</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000231855">
+        <title>Star Trek: Deep Space Nine Collection, Volume Two</title>
+        <releasedate>2018-01-09</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000177410">
+        <title>Star Trek: Insurrection</title>
+        <releasedate>2013-08-06</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000234817">
+        <title>Star Trek: Discovery - Season 1, Chapter 2</title>
+        <releasedate>2018-04-06</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000174282">
+        <title>The Best of Both Worlds</title>
+        <releasedate>2013-05-20</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000065793">
+        <title>Star Trek: Insurrection</title>
+        <releasedate>1998-12-08</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000219730">
+        <title>Star Trek: Voyager Collection</title>
+        <releasedate>2017-02-28</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000192760">
+        <title>Star Trek: Enterprise Collection</title>
+        <releasedate>2014-12-02</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000220562">
+        <title>Star Trek: The Motion Picture</title>
+        <releasedate>2017-03-14</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000168939">
+        <title>Star Trek Generations</title>
+        <releasedate>2012-10-29</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000188099">
+        <title>Star Trek: The Motion Picture - 20th Anniversary Collector's Edition</title>
+        <releasedate>1999-01-26</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000168938">
+        <title>Star Trek: The Original Series Soundtrack Collection</title>
+        <releasedate>2012-12-04</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000231207">
+        <title>Star Trek: Enterprise Collection, Volume Two</title>
+        <releasedate>2016-09-30</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000188116">
+        <title>Star Trek - Symphonic Suites, Volume One</title>
+        <releasedate>1995-03-20</releasedate>
+    </soundtrack>
+    <soundtrack uid="SOMA0000206550">
+        <title>Star Trek Beyond</title>
+        <releasedate>2016-07-29</releasedate>
+    </soundtrack>
+</soundtracks>
