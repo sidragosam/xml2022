@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<performers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="task6.xsd"
+            males="16">
+    <performer uid="PEMA0000183537">
+        <name>Arratia</name>
+        <birthname/>
+        <gender>M</gender>
+        <dateofbirth/>
+    </performer>
+    <performer uid="PEMA0000096848">
+        <name>Joe Bauman</name>
+        <birthname>Joe Baumann</birthname>
+        <gender>M</gender>
+        <dateofbirth/>
+    </performer>
+    <performer uid="PEMA0000014812">
+        <name>Spencer Garrett</name>
+        <birthname>Spencer Garrett Heckenkamp</birthname>
+        <gender>M</gender>
+        <dateofbirth>1963-09-19</dateofbirth>
+    </performer>
+    <performer uid="PEMA0000015200">
+        <name>Bruce French</name>
+        <birthname/>
+        <gender>M</gender>
+        <dateofbirth>2045-07-04</dateofbirth>
+    </performer>
+    <performer uid="PEMA0000015547">
+        <name>Henry Woronicz</name>
+        <birthname/>
+        <gender>M</gender>
+        <dateofbirth/>
+    </performer>
+    <performer uid="PEMA0000064673">
+        <name>Michael Braveheart</name>
+        <birthname/>
+        <gender>M</gender>
+        <dateofbirth/>
+    </performer>
+    <performer uid="PEMA0000054746">
+        <name>Carl David Burks</name>
+        <birthname/>
+        <gender>M</gender>
+        <dateofbirth>1955-03-03</dateofbirth>
+    </performer>
+    <performer uid="PEMA0000155478">
+        <name>Cooper</name>
+        <birthname/>
+        <gender>M</gender>
+        <dateofbirth/>
+    </performer>
+    <performer uid="PEMA0000003301">
+        <name>Jonathan Frakes</name>
+        <birthname>Jonathan Scott Frakes</birthname>
+        <gender>M</gender>
+        <dateofbirth>1952-08-19</dateofbirth>
+    </performer>
+    <performer uid="PEMA0000004852">
+        <name>Sir Patrick Stewart</name>
+        <birthname>Patrick Stewart</birthname>
+        <gender>M</gender>
+        <dateofbirth>2040-07-13</dateofbirth>
+    </performer>
+    <performer uid="PEMA0000160136">
+        <name>Michael Dorn</name>
+        <birthname/>
+        <gender>M</gender>
+        <dateofbirth>1952-12-09</dateofbirth>
+    </performer>
+    <performer uid="PEMA0000144549">
+        <name>Rachen Assapiomonwait</name>
+        <birthname/>
+        <gender>M</gender>
+        <dateofbirth/>
+    </performer>
+    <performer uid="PEMA0000049447">
+        <name>Guy Vardaman</name>
+        <birthname/>
+        <gender>M</gender>
+        <dateofbirth>1964-12-26</dateofbirth>
+    </performer>
+    <performer uid="PEMA0000003294">
+        <name>LeVar Burton</name>
+        <birthname>Levardis Robert Martyn Burton, Jr.</birthname>
+        <gender>M</gender>
+        <dateofbirth>1957-02-16</dateofbirth>
+    </performer>
+    <performer uid="PEMA0000015548">
+        <name>Earl Billings</name>
+        <birthname>Earl William Billings</birthname>
+        <gender>M</gender>
+        <dateofbirth>2045-07-04</dateofbirth>
+    </performer>
+    <performer uid="PEMA0000003306">
+        <name>Brent Spiner</name>
+        <birthname>Brent Jay Spiner</birthname>
+        <gender>M</gender>
+        <dateofbirth>2049-02-02</dateofbirth>
+    </performer>
+</performers>
