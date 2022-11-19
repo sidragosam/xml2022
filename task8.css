@@ -1,0 +1,72 @@
+::selection {
+    background: black;
+    color: white;
+}
+
+body {
+    background: black;
+	color: #a4f644
+}
+
+header {
+    background: black;
+    color: #a4f644;
+    margin-bottom: 2rem;
+    padding: 2rem 0;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    width: 50px;
+}
+
+.stapi {
+    margin-bottom: 0;
+    text-align: center;
+	background: #6e7598;
+}
+
+tr:nth-child(even) {
+    margin-bottom: 0;
+    text-align: center;
+	background: #515777;
+}
+
+.stapi tr {
+    vertical-align: middle;
+}
+
+.stapi tbody tr:hover {
+    background: #5ec986;
+}
+
+.stapi-div {
+    border: 3px solid black;
+    margin-bottom: 3rem;
+}
+
+.stapi-dark {
+    background: #414767;
+    color: black;
+    border-bottom: 3px solid black;
+}
+
+.stapi tbody {
+    border: 1px solid black;
+}
+
+footer {
+    background: black;
+    padding: 4rem 0;
+    color: #a4f644;
+    text-align: center;
+}
