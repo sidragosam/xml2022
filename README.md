@@ -8,3 +8,4 @@ This task was created with [STAPI](http://stapi.co/), [STAPI on GitHub](https://
 * **TASK 4**: Showing the soundtracks in XML with validation that have a release date. Returns an XML document.
 * **TASK 5**: Showing the episodes in XML with validation that have a English, German and Italian title. Returns an XML document.
 * **TASK 6**: Counting and then describing men from a given episode in a validated XML document. Returns an XML document.
+* **TASK 7**: Seasons with at least 20 episodes, in a validated XML document, in ascending order by title. Returns an XML document.
