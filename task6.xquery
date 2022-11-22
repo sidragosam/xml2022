@@ -8,12 +8,21 @@ declare namespace validate = "http://basex.org/modules/validate";
 declare option output:method "xml";
 declare option output:indent "yes";
 
-declare function local:getPerformers(){
-    let $performers := json-doc("http://stapi.co/api/v1/rest/episode?uid=EPMA0000001378")?episode?performers?*
+declare function local:getEpisodeByName($name){
+    let $episodes := json-doc("task10.json")?*
+    return $episodes[?title eq $name]
+};
+
+declare function local:getPerformersFromEpisode($title){
+    let $ep := local:getEpisodeByName($title)
+    let $uid := $ep?uid
+    let $episode := json-doc(concat("http://stapi.co/api/v1/rest/episode?uid=", $uid))
+    let $performers := $episode?episode?performers?*
     return $performers
 };
 
-let $performers := local:getPerformers()
+let $episodetitle := "Where No Man Has Gone Before"
+let $performers := local:getPerformersFromEpisode($episodetitle)
 
 let $males := $performers ,
     $gender := "M",
