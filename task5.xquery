@@ -5,7 +5,7 @@ declare namespace array = "http://www.w3.org/2005/xpath-functions/array";
 declare namespace validate = "http://basex.org/modules/validate";
 
 declare function local:getEpisodes(){
-    let $episodes := json-doc("http://stapi.co/api/v1/rest/episode/search?pageSize=100")?episodes?*
+    let $episodes := json-doc("task10.json")?*
     return $episodes
 };
 
