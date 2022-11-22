@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
     
-    <xs:element name="soundtracks">
+    <xs:element name="episodes">
         <xs:complexType>
             <xs:sequence>
-                <xs:element ref="soundtrack" minOccurs="1" maxOccurs="unbounded"/>
+                <xs:element ref="episode" minOccurs="1" maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
     
-    <xs:element name="soundtrack">
+    <xs:element name="episode">
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="title" minOccurs="1" maxOccurs="1"/>
-                <xs:element name="releasedate" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="titleitalian" minOccurs="1" maxOccurs="1"/>
+				<xs:element name="seasonnumber" minOccurs="1" maxOccurs="1"/>
+				<xs:element name="episodenumber" minOccurs="1" maxOccurs="1"/>
             </xs:sequence>
             <xs:attribute name="uid" type="xs:string" use="required"/>
         </xs:complexType>
