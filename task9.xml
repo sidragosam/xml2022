@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<performer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:noNamespaceSchemaLocation="task9.xsd"
            title="The Drumhead"
            uid="CHMA0000123073">
@@ -7,21 +7,4 @@
     <birthday>2335-4-15</birthday>
     <gender>M</gender>
     <height>193</height>
-</performer>
-
-
-
-
-
-
-
-
-
-------------------[FOR THE UNKNOWN NAME]----------------
-<?xml version="1.0" encoding="UTF-8"?>
-<performer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xsi:noNamespaceSchemaLocation="task9.xsd"
-           title="The Drumhead"
-           uid="-">
-    <error>Unknown! WilliamASD T. Riker not found in this episode!</error>
-</performer>
+</character>
