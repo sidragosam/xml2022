@@ -1,4 +1,4 @@
-(: Star Trek filmek mutatása HTML formátumban :)
+(: Star Trek epizódok mutatása HTML formátumban :)
 xquery version "3.1";
 
 declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
@@ -10,12 +10,12 @@ declare option output:method "html";
 declare option output:html-version "5.0";
 declare option output:indent "yes";
 
-declare function local:getMovies(){
-    let $movies := json-doc("http://stapi.co/api/v1/rest/movie/search")?movies?*
-    return $movies
+declare function local:getEpisodes(){
+    let $episodes := json-doc("task10.json")?*
+    return $episodes
 };
 
-let $movies := local:getMovies()
+let $episodes := local:getEpisodes()
 
 let $document := 
 
@@ -37,26 +37,28 @@ let $document :=
                                     <tr>
                                         <th>ID</th>
                                         <th>Cím</th>
-                                        <th>Rendező</th>
-                                        <th>Cselekmény kezdete</th>
+                                        <th>Évad</th>
+                                        <th>Rész</th>
+                                        <th>Cselekmény eleje</th>
                                         <th>Cselekmény vége</th>
-                                        <th>Megjelenés</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     {
-                                        for $movie in $movies
-                                        let $title := $movie?title
-                                        order by $title
+                                        for $episode in $episodes
+                                        let $title := $episode?title
+                                        let $seasonnum := $episode?seasonNumber
+                                        let $episodenum := $episode?episodeNumber
+                                        order by $seasonnum ascending, $episodenum ascending, $title ascending
                                         count $i
                                         return
                                             <tr>
                                                 <td>{$i}</td>
-                                                <td>{$movie?title}</td>
-                                                <td>{$movie?mainDirector?name}</td>
-                                                <td>{$movie?yearFrom}</td>
-                                                <td>{$movie?yearTo}</td>
-                                                <td>{$movie?usReleaseDate}</td>
+                                                <td>{$episode?title}</td>
+                                                <td>[{$episode?seasonNumber}] {$episode?season?title}</td>
+                                                <td>{$episode?episodeNumber}</td>
+                                                <td>{$episode?yearFrom}</td>
+                                                <td>{$episode?yearTo}</td>
                                             </tr>
                                     }
                                 </tbody>
@@ -72,4 +74,3 @@ let $document :=
 </html>
 
 return $document
-
