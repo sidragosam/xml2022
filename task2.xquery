@@ -7,7 +7,7 @@ declare option output:method "json";
 declare option output:media-type "application/json";
 
 declare function local:getSeasonEpisodes($stitle){
-    let $episodes := json-doc("http://stapi.co/api/v1/rest/episode/search?pageSize=100")?episodes?*
+    let $episodes := json-doc("task10.json")?*
     return $episodes[?season?title = $stitle]
 };
 let $sepisodes :=local:getSeasonEpisodes("TOS Season 2")
