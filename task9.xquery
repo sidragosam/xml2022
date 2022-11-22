@@ -13,26 +13,26 @@ declare function local:getEpisodeByName($name){
     return $episodes[?title eq $name]
 };
 
-declare function local:getPerformersFromEpisodeByName($title, $name){
+declare function local:getCharacterByNameFromEpisode($title, $name){
     let $ep := local:getEpisodeByName($title)
     let $uid := $ep?uid
     let $episode := json-doc(concat("http://stapi.co/api/v1/rest/episode?uid=", $uid))
-    let $performers := $episode?episode?characters?*
-    return $performers[?name eq $name]
+    let $characters := $episode?episode?characters?*
+    return $characters[?name eq $name]
 };
 
 let $episodetitle := "The Drumhead"
 let $charactername := "William T. Riker"
-let $performer := local:getPerformersFromEpisodeByName($episodetitle, $charactername)
+let $character := local:getCharacterByNameFromEpisode($episodetitle, $charactername)
 
 let $document := 
-    if($performer?name eq $charactername) then
+    if($character?name eq $charactername) then
     <performer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="task9.xsd" title="{$episodetitle}" uid="{$performer?uid}">
-            <name>{$performer?name}</name>
-            <birthday>{$performer?yearOfBirth}-{$performer?monthOfBirth}-{$performer?dayOfBirth}</birthday>
-            <gender>{$performer?gender}</gender>
-            <height>{$performer?height}</height>
+    xsi:noNamespaceSchemaLocation="task9.xsd" title="{$episodetitle}" uid="{$character?uid}">
+            <name>{$character?name}</name>
+            <birthday>{$character?yearOfBirth}-{$character?monthOfBirth}-{$character?dayOfBirth}</birthday>
+            <gender>{$character?gender}</gender>
+            <height>{$character?height}</height>
     </performer>
     else(
         <performer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
