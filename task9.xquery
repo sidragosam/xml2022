@@ -27,18 +27,18 @@ let $character := local:getCharacterByNameFromEpisode($episodetitle, $charactern
 
 let $document := 
     if($character?name eq $charactername) then
-    <performer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    <character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="task9.xsd" title="{$episodetitle}" uid="{$character?uid}">
             <name>{$character?name}</name>
             <birthday>{$character?yearOfBirth}-{$character?monthOfBirth}-{$character?dayOfBirth}</birthday>
             <gender>{$character?gender}</gender>
             <height>{$character?height}</height>
-    </performer>
+    </character>
     else(
-        <performer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        <character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="task9.xsd" title="{$episodetitle}" uid="-">
             <error>Unknown! {$charactername} not found in this episode!</error>
-    </performer>
+    </character>
     )
     
 return validate {$document}
