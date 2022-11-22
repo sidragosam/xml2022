@@ -1,4 +1,4 @@
-(:Azon epizódok mutatása XML-ben amelyek rendelkeznek olasz címmel Season és Epizód szerint növekvő sorrendben:)
+(:Azon epizódok mutatása validált XML-ben, amelyek rendelkeznek olasz címmel Season és Epizód szerint növekvő sorrendben:)
 xquery version "3.1";
 import schema default element namespace "" at "task4.xsd";
 declare namespace array = "http://www.w3.org/2005/xpath-functions/array";
