@@ -157,4 +157,634 @@
         <titleitalian>Simbiosi</titleitalian>
         <seasontitle>TNG Season 1</seasontitle>
     </episode>
+    <episode uid="EPMA0000001513" seasonnum="3" epnum="14">
+        <title>Alter Ego</title>
+        <titlegerman>Das andere Ego</titlegerman>
+        <titleitalian>Un amore impossibile</titleitalian>
+        <seasontitle>VOY Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000445" seasonnum="2" epnum="4">
+        <title>Who Mourns for Adonais?</title>
+        <titlegerman>Der Tempel des Apoll</titlegerman>
+        <titleitalian>Dominati da Apollo</titleitalian>
+        <seasontitle>TOS Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001612" seasonnum="7" epnum="12">
+        <title>Lineage</title>
+        <titlegerman>Abstammung</titlegerman>
+        <titleitalian>Discendenza</titleitalian>
+        <seasontitle>VOY Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006768" seasonnum="1" epnum="6">
+        <title>The Naked Time</title>
+        <titlegerman>Implosion in der Spirale</titlegerman>
+        <titleitalian>Al di là del tempo</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006778" seasonnum="1" epnum="3">
+        <title>Mudd's Women</title>
+        <titlegerman>Die Frauen des Mr. Mudd</titlegerman>
+        <titleitalian>Il filtro di Venere</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000477" seasonnum="3" epnum="10">
+        <title>For the World is Hollow and I Have Touched the Sky</title>
+        <titlegerman>Der verirrte Planet</titlegerman>
+        <titleitalian>Ho toccato il cielo</titleitalian>
+        <seasontitle>TOS Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001158" seasonnum="1" epnum="15">
+        <title>The Eye of the Beholder</title>
+        <titlegerman>Auf der Suche nach Überlebenden</titlegerman>
+        <titleitalian>Con gli occhi dello spettatore</titleitalian>
+        <seasontitle>TAS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000007252" seasonnum="4" epnum="4">
+        <title>Borderland</title>
+        <titlegerman>Borderland</titlegerman>
+        <titleitalian>Terra di confine</titleitalian>
+        <seasontitle>ENT Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000007841" seasonnum="4" epnum="5">
+        <title>Cold Station 12</title>
+        <titlegerman>Cold Station 12</titlegerman>
+        <titleitalian>Stazione 12</titleitalian>
+        <seasontitle>ENT Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000446" seasonnum="2" epnum="5">
+        <title>Amok Time</title>
+        <titlegerman>Weltraumfieber</titlegerman>
+        <titleitalian>Il duello</titleitalian>
+        <seasontitle>TOS Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001371" seasonnum="4" epnum="14">
+        <title>Clues</title>
+        <titlegerman>Beweise</titlegerman>
+        <titleitalian>Indizi</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000021" seasonnum="1" epnum="1">
+        <title>Where No Man Has Gone Before</title>
+        <titlegerman>Die Spitze des Eisberges</titlegerman>
+        <titleitalian>Oltre la galassia</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000003483" seasonnum="2" epnum="13">
+        <title>Dawn</title>
+        <titlegerman>Morgengrauen</titlegerman>
+        <titleitalian>Il mio nemico</titleitalian>
+        <seasontitle>ENT Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006770" seasonnum="1" epnum="9">
+        <title>What Are Little Girls Made Of?</title>
+        <titlegerman>Der alte Traum</titlegerman>
+        <titleitalian>Gli androidi del dottor Korby</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001321" seasonnum="2" epnum="9">
+        <title>The Measure Of A Man</title>
+        <titlegerman>Wem gehört Data?</titlegerman>
+        <titleitalian>La misura di un uomo</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001374" seasonnum="4" epnum="17">
+        <title>Night Terrors</title>
+        <titlegerman>Augen in der Dunkelheit</titlegerman>
+        <titleitalian>Terrori notturni</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001387" seasonnum="5" epnum="4">
+        <title>Silicon Avatar</title>
+        <titlegerman>Das Recht auf Leben</titlegerman>
+        <titleitalian>L'entità di cristallo</titleitalian>
+        <seasontitle>TNG Season 5</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000436" seasonnum="1" epnum="23">
+        <title>A Taste of Armageddon</title>
+        <titlegerman>Krieg der Computer</titlegerman>
+        <titleitalian>Una guerra incredibile</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001347" seasonnum="3" epnum="13">
+        <title>Deja Q</title>
+        <titlegerman>Nocheinmal Q</titlegerman>
+        <titleitalian>Deja Q</titleitalian>
+        <seasontitle>TNG Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001989" seasonnum="3" epnum="4">
+        <title>Rajiin</title>
+        <titlegerman>Rajiin</titlegerman>
+        <titleitalian>Rajiin</titleitalian>
+        <seasontitle>ENT Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000503" seasonnum="1" epnum="13">
+        <title>Datalore</title>
+        <titlegerman>Das Duplikat</titlegerman>
+        <titleitalian>Datalore</titleitalian>
+        <seasontitle>TNG Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001382" seasonnum="4" epnum="25">
+        <title>In Theory</title>
+        <titlegerman>Datas erste Liebe</titlegerman>
+        <titleitalian>Programma: amore</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000228245" seasonnum="1" epnum="9">
+        <title>Into the Forest I Go</title>
+        <titlegerman>Algorithmus</titlegerman>
+        <titleitalian>Nella foresta mi addentro</titleitalian>
+        <seasontitle>DIS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000490" seasonnum="3" epnum="21">
+        <title>Requiem for Methuselah</title>
+        <titlegerman>Planet der Unsterblichen</titlegerman>
+        <titleitalian>Requiem per Matusalemme</titleitalian>
+        <seasontitle>TOS Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006956" seasonnum="1" epnum="6">
+        <title>The Survivor</title>
+        <titlegerman>Der Überlebende</titlegerman>
+        <titleitalian>Il superstite</titleitalian>
+        <seasontitle>TAS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000452" seasonnum="2" epnum="11">
+        <title>The Deadly Years</title>
+        <titlegerman>Wie schnell die Zeit vergeht</titlegerman>
+        <titleitalian>Gli anni della morte</titleitalian>
+        <seasontitle>TOS Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000435" seasonnum="1" epnum="22">
+        <title>The Return of the Archons</title>
+        <titlegerman>Landru und die Ewigkeit</titlegerman>
+        <titleitalian>Il ritorno degli Arconti</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000927" seasonnum="4" epnum="19">
+        <title>Hard Time</title>
+        <titlegerman>Strafzyklen</titlegerman>
+        <titleitalian>Tempi difficili</titleitalian>
+        <seasontitle>DS9 Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001326" seasonnum="2" epnum="14">
+        <title>The Icarus Factor</title>
+        <titlegerman>Rikers Vater</titlegerman>
+        <titleitalian>Fattore Icaro</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001361" seasonnum="4" epnum="3">
+        <title>Brothers</title>
+        <titlegerman>Die ungleichen Brüder</titlegerman>
+        <titleitalian>Fratelli</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006965" seasonnum="2" epnum="3">
+        <title>The Practical Joker</title>
+        <titlegerman>Wüste Scherze</titlegerman>
+        <titleitalian>Il computer si diverte</titleitalian>
+        <seasontitle>TAS Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006766" seasonnum="1" epnum="4">
+        <title>The Enemy Within</title>
+        <titlegerman>Kirk : 2 = ?</titlegerman>
+        <titleitalian>Il duplicato</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001416" seasonnum="6" epnum="9">
+        <title>The Quality of Life</title>
+        <titlegerman>Data's Hypothese</titlegerman>
+        <titleitalian>Il sapore della vita</titleitalian>
+        <seasontitle>TNG Season 6</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001414" seasonnum="6" epnum="7">
+        <title>Rascals</title>
+        <titlegerman>Erwachsene Kinder</titlegerman>
+        <titleitalian>Giovani eroi</titleitalian>
+        <seasontitle>TNG Season 6</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001403" seasonnum="5" epnum="22">
+        <title>Imaginary Friend</title>
+        <titlegerman>Die imaginäre Freundin</titlegerman>
+        <titleitalian>Un'amica immaginaria</titleitalian>
+        <seasontitle>TNG Season 5</seasontitle>
+    </episode>
+    <episode uid="EPMA0000003484" seasonnum="2" epnum="14">
+        <title>Stigma</title>
+        <titlegerman>Stigma</titlegerman>
+        <titleitalian>La sindrome</titleitalian>
+        <seasontitle>ENT Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001312" seasonnum="2" epnum="1">
+        <title>The Child</title>
+        <titlegerman>Das Kind</titlegerman>
+        <titleitalian>Il bambino</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001515" seasonnum="3" epnum="16">
+        <title>Blood Fever</title>
+        <titlegerman>Pon Farr</titlegerman>
+        <titleitalian>La febbre del sangue</titleitalian>
+        <seasontitle>VOY Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001029" seasonnum="1" epnum="17">
+        <title>Fusion</title>
+        <titlegerman>Die Verschmelzung</titlegerman>
+        <titleitalian>La fusione</titleitalian>
+        <seasontitle>ENT Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001413" seasonnum="6" epnum="6">
+        <title>True Q</title>
+        <titlegerman>Eine echte "Q"</titlegerman>
+        <titleitalian>Una vera Q</titleitalian>
+        <seasontitle>TNG Season 6</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000441" seasonnum="1" epnum="29">
+        <title>Operation -- Annihilate!</title>
+        <titlegerman>Spock außer Kontrolle</titlegerman>
+        <titleitalian>Pianeta Deneva</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001340" seasonnum="3" epnum="6">
+        <title>Booby Trap</title>
+        <titlegerman>Die Energiefalle</titlegerman>
+        <titleitalian>Trappola spaziale</titleitalian>
+        <seasontitle>TNG Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000127926" seasonnum="2" epnum="5">
+        <title>Loud As A Whisper</title>
+        <titlegerman>Der stumme Vermittler</titlegerman>
+        <titleitalian>Rumoroso come un sussurro</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001368" seasonnum="4" epnum="10">
+        <title>The Loss</title>
+        <titlegerman>Das kosmische Band</titlegerman>
+        <titleitalian>La perdita</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006959" seasonnum="1" epnum="9">
+        <title>Once Upon a Planet</title>
+        <titlegerman>Phantasie oder Wirklichkeit</titlegerman>
+        <titleitalian>C'era una volta su un pianeta</titleitalian>
+        <seasontitle>TAS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001423" seasonnum="6" epnum="16">
+        <title>Birthright, Part I</title>
+        <titlegerman>Der Moment der Erkenntnis, Teil I</titlegerman>
+        <titleitalian>La voce del sangue - prima parte</titleitalian>
+        <seasontitle>TNG Season 6</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001364" seasonnum="4" epnum="6">
+        <title>Legacy</title>
+        <titlegerman>Die Rettungsoperation</titlegerman>
+        <titleitalian>Sorelle</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000062225" seasonnum="1" epnum="2">
+        <title>The Corbomite Maneuver</title>
+        <titlegerman>Pokerspiele</titlegerman>
+        <titleitalian>L'espediente della carbonite</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000426" seasonnum="1" epnum="13">
+        <title>The Galileo Seven</title>
+        <titlegerman>Notlandung auf Galileo 7</titlegerman>
+        <titleitalian>La Galileo</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001417" seasonnum="6" epnum="10">
+        <title>Chain of Command, Part I</title>
+        <titlegerman>Geheime Mission auf Celtris Drei, Teil I</titlegerman>
+        <titleitalian>Il peso del comando - prima parte</titleitalian>
+        <seasontitle>TNG Season 6</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000423" seasonnum="1" epnum="10">
+        <title>Dagger of the Mind</title>
+        <titlegerman>Der Zentralnervensystemmanipulator</titlegerman>
+        <titleitalian>Trasmissione di pensiero</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001429" seasonnum="6" epnum="22">
+        <title>Suspicions</title>
+        <titlegerman>Verdächtigungen</titlegerman>
+        <titleitalian>Sospetti</titleitalian>
+        <seasontitle>TNG Season 6</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001401" seasonnum="5" epnum="20">
+        <title>Cost of Living</title>
+        <titlegerman>Hochzeit mit Hindernissen</titlegerman>
+        <titleitalian>Il prezzo della vita</titleitalian>
+        <seasontitle>TNG Season 5</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001428" seasonnum="6" epnum="21">
+        <title>Frame of Mind</title>
+        <titlegerman>Phantasie oder Wahrheit</titlegerman>
+        <titleitalian>Schegge di realtà</titleitalian>
+        <seasontitle>TNG Season 6</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006776" seasonnum="1" epnum="12">
+        <title>The Conscience of the King</title>
+        <titlegerman>Kodos der Henker</titlegerman>
+        <titleitalian>La magnificenza del re</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001335" seasonnum="2" epnum="22">
+        <title>Shades of Gray</title>
+        <titlegerman>Kraft der Träume</titlegerman>
+        <titleitalian>Ombre dal passato</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001453" seasonnum="7" epnum="20">
+        <title>Journey's End</title>
+        <titlegerman>Am Ende der Reise</titlegerman>
+        <titleitalian>La fine del viaggio</titleitalian>
+        <seasontitle>TNG Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006769" seasonnum="1" epnum="7">
+        <title>Charlie X</title>
+        <titlegerman>Der Fall Charly</titlegerman>
+        <titleitalian>Il naufrago delle stelle</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001405" seasonnum="5" epnum="24">
+        <title>The Next Phase</title>
+        <titlegerman>So nah und doch so fern</titlegerman>
+        <titleitalian>Un'altra dimensione</titleitalian>
+        <seasontitle>TNG Season 5</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006454" seasonnum="4" epnum="1">
+        <title>Storm Front</title>
+        <titlegerman>Sturmfront, Teil I</titlegerman>
+        <titleitalian>Nuovo fronte temporale - prima parte</titleitalian>
+        <seasontitle>ENT Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001328" seasonnum="2" epnum="15">
+        <title>Pen Pals</title>
+        <titlegerman>Brieffreunde</titlegerman>
+        <titleitalian>Amici per la pelle</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001366" seasonnum="4" epnum="8">
+        <title>Future Imperfect</title>
+        <titlegerman>Gedächtnisverlust</titlegerman>
+        <titleitalian>Futuro imperfetto</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001562" seasonnum="5" epnum="12">
+        <title>Bride of Chaotica!</title>
+        <titlegerman>Chaoticas Braut</titlegerman>
+        <titleitalian>La sposa di Chaotica</titleitalian>
+        <seasontitle>VOY Season 5</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000016" seasonnum="1" epnum="1">
+        <title>The Cage</title>
+        <titlegerman>Der Käfig</titlegerman>
+        <titleitalian>Lo zoo di Talos</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000449" seasonnum="2" epnum="8">
+        <title>The Changeling</title>
+        <titlegerman>Ich heiße Nomad</titlegerman>
+        <titleitalian>La sfida</titleitalian>
+        <seasontitle>TOS Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001187" seasonnum="3" epnum="23">
+        <title>Sarek</title>
+        <titlegerman>Botschafter Sarek</titlegerman>
+        <titleitalian>Sarek</titleitalian>
+        <seasontitle>TNG Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000862" seasonnum="2" epnum="4">
+        <title>Invasive Procedures</title>
+        <titlegerman>Der Symbiont</titlegerman>
+        <titleitalian>Il simbionte</titleitalian>
+        <seasontitle>DS9 Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001315" seasonnum="2" epnum="4">
+        <title>The Outrageous Okona</title>
+        <titlegerman>Der unmögliche Captain Okona</titlegerman>
+        <titleitalian>Okona l'immorale</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000493" seasonnum="3" epnum="23">
+        <title>All Our Yesterdays</title>
+        <titlegerman>Portal in die Vergangenheit</titlegerman>
+        <titleitalian>Un tuffo nel passato</titleitalian>
+        <seasontitle>TOS Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000471" seasonnum="3" epnum="4">
+        <title>The Enterprise Incident</title>
+        <titlegerman>Die unsichtbare Falle</titlegerman>
+        <titleitalian>Incidente all'Enterprise</titleitalian>
+        <seasontitle>TOS Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001349" seasonnum="3" epnum="16">
+        <title>The Offspring</title>
+        <titlegerman>Datas Nachkomme</titlegerman>
+        <titleitalian>La figlia di Data</titleitalian>
+        <seasontitle>TNG Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001390" seasonnum="5" epnum="9">
+        <title>A Matter of Time</title>
+        <titlegerman>Der zeitreisende Historiker</titlegerman>
+        <titleitalian>Uno strano visitatore</titleitalian>
+        <seasontitle>TNG Season 5</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006771" seasonnum="1" epnum="11">
+        <title>Miri</title>
+        <titlegerman>Miri, ein Kleinling</titlegerman>
+        <titleitalian>Miri</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001380" seasonnum="4" epnum="23">
+        <title>The Host</title>
+        <titlegerman>Odan, der Sonderbotschafter</titlegerman>
+        <titleitalian>L'ospite</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001379" seasonnum="4" epnum="22">
+        <title>Half a Life</title>
+        <titlegerman>Die Auflösung</titlegerman>
+        <titleitalian>Una vita a metà</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000711" seasonnum="2" epnum="23">
+        <title>Regeneration</title>
+        <titlegerman>Regeneration</titlegerman>
+        <titleitalian>Rigenerazione</titleitalian>
+        <seasontitle>ENT Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000009981" seasonnum="4" epnum="8">
+        <title>Awakening</title>
+        <titlegerman>Zeit des Erwachens</titlegerman>
+        <titleitalian>Risvegli</titleitalian>
+        <seasontitle>ENT Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001353" seasonnum="3" epnum="20">
+        <title>Tin Man</title>
+        <titlegerman>Der Telepath</titlegerman>
+        <titleitalian>L'uomo di latta</titleitalian>
+        <seasontitle>TNG Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001332" seasonnum="2" epnum="19">
+        <title>Manhunt</title>
+        <titlegerman>Andere Sterne, andere Sitten</titlegerman>
+        <titleitalian>Caccia all'uomo</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001396" seasonnum="5" epnum="15">
+        <title>Power Play</title>
+        <titlegerman>Ungebetene Gäste</titlegerman>
+        <titleitalian>Gioco di potere</titleitalian>
+        <seasontitle>TNG Season 5</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006960" seasonnum="1" epnum="10">
+        <title>Mudd's Passion</title>
+        <titlegerman>Der Liebeskristall</titlegerman>
+        <titleitalian>Il filtro di Mudd</titleitalian>
+        <seasontitle>TAS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001457" seasonnum="7" epnum="24">
+        <title>Preemptive Strike</title>
+        <titlegerman>Die Rückkehr von Ro Laren</titlegerman>
+        <titleitalian>Il tenente Ro</titleitalian>
+        <seasontitle>TNG Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000085074" seasonnum="2" epnum="3">
+        <title>Elementary, Dear Data</title>
+        <titlegerman>Sherlock Data Holmes</titlegerman>
+        <titleitalian>Elementare, caro Data</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000501" seasonnum="1" epnum="11">
+        <title>Haven</title>
+        <titlegerman>Die Frau seiner Träume</titlegerman>
+        <titleitalian>Haven</titleitalian>
+        <seasontitle>TNG Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000009216" seasonnum="4" epnum="6">
+        <title>The Augments</title>
+        <titlegerman>Die Augments</titlegerman>
+        <titleitalian>I potenziati</titleitalian>
+        <seasontitle>ENT Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000006958" seasonnum="1" epnum="8">
+        <title>The Magicks of Megas-Tu</title>
+        <titlegerman>Das Geheimnis von Megas-Tu</titlegerman>
+        <titleitalian>Le magie dei Megas-Tu</titleitalian>
+        <seasontitle>TAS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001392" seasonnum="5" epnum="11">
+        <title>Hero Worship</title>
+        <titlegerman>Der einzige Überlebende</titlegerman>
+        <titleitalian>Un eroe da imitare</titleitalian>
+        <seasontitle>TNG Season 5</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000472" seasonnum="3" epnum="5">
+        <title>And the Children Shall Lead</title>
+        <titlegerman>Kurs auf Marcus 12</titlegerman>
+        <titleitalian>Sul pianeta Triacon</titleitalian>
+        <seasontitle>TOS Season 3</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001435" seasonnum="7" epnum="1">
+        <title>Descent, Part II</title>
+        <titlegerman>Angriff der Borg, Teil II</titlegerman>
+        <titleitalian>Il ritorno dei Borg - seconda parte</titleitalian>
+        <seasontitle>TNG Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001014" seasonnum="1" epnum="1">
+        <title>Broken Bow</title>
+        <titlegerman>Aufbruch ins Unbekannte, Teil I</titlegerman>
+        <titleitalian>Prima missione</titleitalian>
+        <seasontitle>ENT Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001324" seasonnum="2" epnum="12">
+        <title>The Royale</title>
+        <titlegerman>Hotel Royale</titlegerman>
+        <titleitalian>Hotel Royale</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001449" seasonnum="7" epnum="16">
+        <title>Thine Own Self</title>
+        <titlegerman>Radioaktiv</titlegerman>
+        <titleitalian>Radioattività</titleitalian>
+        <seasontitle>TNG Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001444" seasonnum="7" epnum="10">
+        <title>Inheritance</title>
+        <titlegerman>Soongs Vermächtnis</titlegerman>
+        <titleitalian>Una madre per Data</titleitalian>
+        <seasontitle>TNG Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000010341" seasonnum="4" epnum="9">
+        <title>Kir'Shara</title>
+        <titlegerman>Kir'Shara</titlegerman>
+        <titleitalian>Il Kir'Shara</titleitalian>
+        <seasontitle>ENT Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001322" seasonnum="2" epnum="10">
+        <title>The Dauphin</title>
+        <titlegerman>Die Thronfolgerin</titlegerman>
+        <titleitalian>La delfina</titleitalian>
+        <seasontitle>TNG Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001419" seasonnum="6" epnum="11">
+        <title>Chain of Command, Part II</title>
+        <titlegerman>Geheime Mission auf Celtris Drei, Teil II</titlegerman>
+        <titleitalian>Il peso del comando - seconda parte</titleitalian>
+        <seasontitle>TNG Season 6</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001440" seasonnum="7" epnum="6">
+        <title>Phantasms</title>
+        <titlegerman>Traumanalyse</titlegerman>
+        <titleitalian>Programma: sogno</titleitalian>
+        <seasontitle>TNG Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001602" seasonnum="7" epnum="2">
+        <title>Imperfection</title>
+        <titlegerman>Unvollkommenheit</titlegerman>
+        <titleitalian>Imperfezione</titleitalian>
+        <seasontitle>VOY Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001441" seasonnum="7" epnum="7">
+        <title>Dark Page</title>
+        <titlegerman>Ort der Finsternis</titlegerman>
+        <titleitalian>La porta chiusa</titleitalian>
+        <seasontitle>TNG Season 7</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000448" seasonnum="2" epnum="7">
+        <title>Wolf in the Fold</title>
+        <titlegerman>Der Wolf im Schafspelz</titlegerman>
+        <titleitalian>Fantasmi del passato</titleitalian>
+        <seasontitle>TOS Season 2</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001367" seasonnum="4" epnum="9">
+        <title>Final Mission</title>
+        <titlegerman>Die letzte Mission</titlegerman>
+        <titleitalian>L'ultima missione</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000001377" seasonnum="4" epnum="20">
+        <title>Qpid</title>
+        <titlegerman>Gefangen in der Vergangenheit</titlegerman>
+        <titleitalian>Q-Pido</titleitalian>
+        <seasontitle>TNG Season 4</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000427" seasonnum="1" epnum="14">
+        <title>Court Martial</title>
+        <titlegerman>Kirk unter Anklage</titlegerman>
+        <titleitalian>Corte marziale</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000439" seasonnum="1" epnum="27">
+        <title>Errand of Mercy</title>
+        <titlegerman>Kampf um Organia</titlegerman>
+        <titleitalian>Missione di pace</titleitalian>
+        <seasontitle>TOS Season 1</seasontitle>
+    </episode>
+    <episode uid="EPMA0000000483" seasonnum="1" epnum="1">
+        <title>Encounter at Farpoint</title>
+        <titlegerman>Der Mächtige</titlegerman>
+        <titleitalian>Incontro a Farpoint</titleitalian>
+        <seasontitle>TNG Season 1</seasontitle>
+    </episode>
 </episodes>
