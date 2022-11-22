@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" >
     
-    <xs:element name="seasons">
+    <xs:element name="episodes">
         <xs:complexType>
             <xs:sequence>
-                <xs:element ref="season" minOccurs="1" maxOccurs="unbounded"/>
+                <xs:element ref="episode" minOccurs="1" maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
     
-    <xs:element name="season">
+    <xs:element name="episode">
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="episodenumber" minOccurs="1" maxOccurs="1"/>
@@ -17,6 +17,7 @@
             </xs:sequence>
             <xs:attribute name="season" type="xs:string" use="required"/>
 			<xs:attribute name="uid" type="xs:string" use="required"/>
+			<xs:attribute name="number" type="xs:int" use="required" />
         </xs:complexType>
     </xs:element>
     
