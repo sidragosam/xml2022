@@ -1,23 +1,113 @@
 [
-  { "episodeNumber":3, "seasonNumber":2, "UID":"EPMA0000000444", "title":"Friday's Child" },
-  { "episodeNumber":10, "seasonNumber":2, "UID":"EPMA0000000451", "title":"Mirror, Mirror" },
-  { "episodeNumber":12, "seasonNumber":2, "UID":"EPMA0000000453", "title":"I, Mudd" },
-  {
-    "episodeNumber": 13,
-    "seasonNumber": 2,
-    "UID": "EPMA0000000454",
-    "title": "The Trouble with Tribbles"
-  },
-  {
-    "episodeNumber": 17,
-    "seasonNumber": 2,
-    "UID": "EPMA0000000458",
-    "title": "The Gamesters of Triskelion"
-  },
-  {
-    "episodeNumber": 19,
-    "seasonNumber": 2,
-    "UID": "EPMA0000000460",
-    "title": "The Immunity Syndrome"
-  }
+    { "episodeNumber":1, "seasonNumber":2, "UID":"EPMA0000000442", "title":"Catspaw" },
+    { "episodeNumber":2, "seasonNumber":2, "UID":"EPMA0000000443", "title":"Metamorphosis" },
+    { "episodeNumber":3, "seasonNumber":2, "UID":"EPMA0000000444", "title":"Friday's Child" },
+    {
+        "episodeNumber": 4,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000445",
+        "title": "Who Mourns for Adonais?"
+    },
+    { "episodeNumber":5, "seasonNumber":2, "UID":"EPMA0000000446", "title":"Amok Time" },
+    {
+        "episodeNumber": 6,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000447",
+        "title": "The Doomsday Machine"
+    },
+    {
+        "episodeNumber": 7,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000448",
+        "title": "Wolf in the Fold"
+    },
+    { "episodeNumber":8, "seasonNumber":2, "UID":"EPMA0000000449", "title":"The Changeling" },
+    { "episodeNumber":9, "seasonNumber":2, "UID":"EPMA0000000450", "title":"The Apple" },
+    { "episodeNumber":10, "seasonNumber":2, "UID":"EPMA0000000451", "title":"Mirror, Mirror" },
+    {
+        "episodeNumber": 11,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000452",
+        "title": "The Deadly Years"
+    },
+    { "episodeNumber":12, "seasonNumber":2, "UID":"EPMA0000000453", "title":"I, Mudd" },
+    {
+        "episodeNumber": 13,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000454",
+        "title": "The Trouble with Tribbles"
+    },
+    {
+        "episodeNumber": 14,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000455",
+        "title": "Bread and Circuses"
+    },
+    {
+        "episodeNumber": 15,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000456",
+        "title": "Journey to Babel"
+    },
+    {
+        "episodeNumber": 16,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000457",
+        "title": "A Private Little War"
+    },
+    {
+        "episodeNumber": 17,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000458",
+        "title": "The Gamesters of Triskelion"
+    },
+    { "episodeNumber":18, "seasonNumber":2, "UID":"EPMA0000000459", "title":"Obsession" },
+    {
+        "episodeNumber": 19,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000460",
+        "title": "The Immunity Syndrome"
+    },
+    {
+        "episodeNumber": 20,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000461",
+        "title": "A Piece of the Action"
+    },
+    {
+        "episodeNumber": 21,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000462",
+        "title": "By Any Other Name"
+    },
+    {
+        "episodeNumber": 22,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000463",
+        "title": "Return to Tomorrow"
+    },
+    {
+        "episodeNumber": 23,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000464",
+        "title": "Patterns of Force"
+    },
+    {
+        "episodeNumber": 24,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000465",
+        "title": "The Ultimate Computer"
+    },
+    {
+        "episodeNumber": 25,
+        "seasonNumber": 2,
+        "UID": "EPMA0000000466",
+        "title": "The Omega Glory"
+    },
+    {
+        "episodeNumber": 26,
+        "seasonNumber": 2,
+        "UID": "EPMA0000074816",
+        "title": "Assignment: Earth"
+    }
 ]
