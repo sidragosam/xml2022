@@ -1,4 +1,4 @@
-(: Star Trek epizódok mutatása HTML formátumban :)
+(: Star Trek filmek mutatása HTML formátumban :)
 xquery version "3.1";
 
 declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
@@ -47,9 +47,10 @@ let $document :=
                                     {
                                         for $episode in $episodes
                                         let $title := $episode?title
+                                        let $stitle := $episode?season?title
                                         let $seasonnum := $episode?seasonNumber
                                         let $episodenum := $episode?episodeNumber
-                                        order by $seasonnum ascending, $episodenum ascending, $title ascending
+                                        order by $seasonnum ascending, $stitle ascending, $episodenum ascending, $title ascending
                                         count $i
                                         return
                                             <tr>
