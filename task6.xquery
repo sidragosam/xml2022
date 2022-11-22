@@ -32,7 +32,7 @@ let $males := $performers ,
 
 let $document := 
     <performers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="task6.xsd" males="{fn:count($countMales)}">
+    xsi:noNamespaceSchemaLocation="task6.xsd" title="{$episodetitle}" males="{fn:count($countMales)}">
         {
           for $performer in $performers
           return if($performer?gender eq "M") then (
