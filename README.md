@@ -10,5 +10,5 @@ This task was created with [STAPI](http://stapi.co/), [STAPI on GitHub](https://
 * **TASK 6**: Counting and then describing men from a given episode in a validated XML document. Returns an XML document.
 * **TASK 7**: Episodes from the 5th Season, in a validated XML document, in ascending order by title. Returns an XML document.
 * **TASK 8**: Display Star Trek episodes in HTML format. Returns a HTML document.
-
+* **TASK 9**: Showing the chosen character from the chosen episode, in validated XML document with handling errors. Returns an XML document.
 * **TASK 10**: Listing all episodes with paging. Returns an array of JSON objects.
