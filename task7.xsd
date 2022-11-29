@@ -12,12 +12,12 @@
     <xs:element name="episode">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="episodenumber" minOccurs="1" maxOccurs="1"/>
-				<xs:element name="title" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="episodeNumber" type="xs:int" minOccurs="1" maxOccurs="1"/>
+		<xs:element name="title" type="xs:string" minOccurs="1" maxOccurs="1"/>
             </xs:sequence>
-            <xs:attribute name="season" type="xs:string" use="required"/>
-			<xs:attribute name="uid" type="xs:string" use="required"/>
-			<xs:attribute name="number" type="xs:int" use="required" />
+            	<xs:attribute name="season" type="xs:string" use="required"/>
+		<xs:attribute name="uid" type="xs:string" use="required"/>
+		<xs:attribute name="number" type="xs:int" use="required" />
         </xs:complexType>
     </xs:element>
     
