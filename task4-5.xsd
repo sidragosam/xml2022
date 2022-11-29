@@ -13,11 +13,15 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="title" type="xs:string" minOccurs="1" maxOccurs="1"/>
+				<xs:element name="titleGerman" type="xs:string" minOccurs="0" maxOccurs="1"/>
                 <xs:element name="titleItalian" type="xs:string" minOccurs="1" maxOccurs="1"/>
-		<xs:element name="seasonNumber" type="xs:int" minOccurs="1" maxOccurs="1"/>
-		<xs:element name="episodeNumber" type="xs:int" minOccurs="1" maxOccurs="1"/>
+				<xs:element name="seasonNumber" type="xs:int" minOccurs="0" maxOccurs="1"/>
+				<xs:element name="episodeNumber" type="xs:int" minOccurs="0" maxOccurs="1"/>
+				<xs:element name="seasonTitle" type="xs:string" minOccurs="0" maxOccurs="1"/>
             </xs:sequence>
             <xs:attribute name="uid" type="xs:string" use="required"/>
+			<xs:attribute name="seasonNumber" type="xs:int" use="optional"/>
+			<xs:attribute name="episodeNumber" type="xs:int" use="optional"/>
         </xs:complexType>
     </xs:element>
     
