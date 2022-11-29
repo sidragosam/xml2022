@@ -5,26 +5,26 @@
             males="4">
     <performer uid="PEMA0000023803">
         <name>Leonard Nimoy</name>
-        <birthname>Leonard Simon Nimoy</birthname>
+        <birthName>Leonard Simon Nimoy</birthName>
         <gender>M</gender>
-        <dateofbirth>2031-03-26</dateofbirth>
+        <dateOfBirth>2031-03-26</dateOfBirth>
     </performer>
     <performer uid="PEMA0000105959">
         <name>William Shatner&lt;br/&gt;OC</name>
-        <birthname>William Shatner</birthname>
+        <birthName>William Shatner</birthName>
         <gender>M</gender>
-        <dateofbirth>2031-03-22</dateofbirth>
+        <dateOfBirth>2031-03-22</dateOfBirth>
     </performer>
     <performer uid="PEMA0000007551">
         <name>Eddie Paskey</name>
-        <birthname>Edward J. Paskey</birthname>
+        <birthName>Edward J. Paskey</birthName>
         <gender>M</gender>
-        <dateofbirth>2039-08-20</dateofbirth>
+        <dateOfBirth>2039-08-20</dateOfBirth>
     </performer>
     <performer uid="PEMA0000007715">
         <name>Gary Lockwood</name>
-        <birthname>John Gary Yurosek</birthname>
+        <birthName>John Gary Yurosek</birthName>
         <gender>M</gender>
-        <dateofbirth>2037-02-21</dateofbirth>
+        <dateOfBirth>2037-02-21</dateOfBirth>
     </performer>
 </performers>
