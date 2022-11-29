@@ -3,788 +3,788 @@
           xsi:noNamespaceSchemaLocation="task4.xsd">
     <episode uid="EPMA0000006767">
         <title>The Man Trap</title>
-        <titleitalian>Trappola umana</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>1</episodenumber>
+        <titleItalian>Trappola umana</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>1</episodeNumber>
     </episode>
     <episode uid="EPMA0000000021">
         <title>Where No Man Has Gone Before</title>
-        <titleitalian>Oltre la galassia</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>1</episodenumber>
+        <titleItalian>Oltre la galassia</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>1</episodeNumber>
     </episode>
     <episode uid="EPMA0000000016">
         <title>The Cage</title>
-        <titleitalian>Lo zoo di Talos</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>1</episodenumber>
+        <titleItalian>Lo zoo di Talos</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>1</episodeNumber>
     </episode>
     <episode uid="EPMA0000001014">
         <title>Broken Bow</title>
-        <titleitalian>Prima missione</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>1</episodenumber>
+        <titleItalian>Prima missione</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>1</episodeNumber>
     </episode>
     <episode uid="EPMA0000000483">
         <title>Encounter at Farpoint</title>
-        <titleitalian>Incontro a Farpoint</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>1</episodenumber>
+        <titleItalian>Incontro a Farpoint</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>1</episodeNumber>
     </episode>
     <episode uid="EPMA0000062225">
         <title>The Corbomite Maneuver</title>
-        <titleitalian>L'espediente della carbonite</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>2</episodenumber>
+        <titleItalian>L'espediente della carbonite</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>2</episodeNumber>
     </episode>
     <episode uid="EPMA0000006778">
         <title>Mudd's Women</title>
-        <titleitalian>Il filtro di Venere</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>3</episodenumber>
+        <titleItalian>Il filtro di Venere</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>3</episodeNumber>
     </episode>
     <episode uid="EPMA0000000491">
         <title>Code of Honor</title>
-        <titleitalian>Codice d'onore</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>4</episodenumber>
+        <titleItalian>Codice d'onore</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>4</episodeNumber>
     </episode>
     <episode uid="EPMA0000006766">
         <title>The Enemy Within</title>
-        <titleitalian>Il duplicato</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>4</episodenumber>
+        <titleItalian>Il duplicato</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>4</episodeNumber>
     </episode>
     <episode uid="EPMA0000000496">
         <title>Where No One Has Gone Before</title>
-        <titleitalian>Dove nessuno è mai giunto prima</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>6</episodenumber>
+        <titleItalian>Dove nessuno è mai giunto prima</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>6</episodeNumber>
     </episode>
     <episode uid="EPMA0000006768">
         <title>The Naked Time</title>
-        <titleitalian>Al di là del tempo</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>6</episodenumber>
+        <titleItalian>Al di là del tempo</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>6</episodeNumber>
     </episode>
     <episode uid="EPMA0000006956">
         <title>The Survivor</title>
-        <titleitalian>Il superstite</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>6</episodenumber>
+        <titleItalian>Il superstite</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>6</episodeNumber>
     </episode>
     <episode uid="EPMA0000006769">
         <title>Charlie X</title>
-        <titleitalian>Il naufrago delle stelle</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>7</episodenumber>
+        <titleItalian>Il naufrago delle stelle</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>7</episodeNumber>
     </episode>
     <episode uid="EPMA0000000134">
         <title>Balance of Terror</title>
-        <titleitalian>La navicella invisibile</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>8</episodenumber>
+        <titleItalian>La navicella invisibile</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>8</episodeNumber>
     </episode>
     <episode uid="EPMA0000006958">
         <title>The Magicks of Megas-Tu</title>
-        <titleitalian>Le magie dei Megas-Tu</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>8</episodenumber>
+        <titleItalian>Le magie dei Megas-Tu</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>8</episodeNumber>
     </episode>
     <episode uid="EPMA0000006770">
         <title>What Are Little Girls Made Of?</title>
-        <titleitalian>Gli androidi del dottor Korby</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>9</episodenumber>
+        <titleItalian>Gli androidi del dottor Korby</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>9</episodeNumber>
     </episode>
     <episode uid="EPMA0000228245">
         <title>Into the Forest I Go</title>
-        <titleitalian>Nella foresta mi addentro</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>9</episodenumber>
+        <titleItalian>Nella foresta mi addentro</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>9</episodeNumber>
     </episode>
     <episode uid="EPMA0000006959">
         <title>Once Upon a Planet</title>
-        <titleitalian>C'era una volta su un pianeta</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>9</episodenumber>
+        <titleItalian>C'era una volta su un pianeta</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>9</episodeNumber>
     </episode>
     <episode uid="EPMA0000000423">
         <title>Dagger of the Mind</title>
-        <titleitalian>Trasmissione di pensiero</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>10</episodenumber>
+        <titleItalian>Trasmissione di pensiero</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>10</episodeNumber>
     </episode>
     <episode uid="EPMA0000006960">
         <title>Mudd's Passion</title>
-        <titleitalian>Il filtro di Mudd</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>10</episodenumber>
+        <titleItalian>Il filtro di Mudd</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>10</episodeNumber>
     </episode>
     <episode uid="EPMA0000006771">
         <title>Miri</title>
-        <titleitalian>Miri</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>11</episodenumber>
+        <titleItalian>Miri</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>11</episodeNumber>
     </episode>
     <episode uid="EPMA0000000501">
         <title>Haven</title>
-        <titleitalian>Haven</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>11</episodenumber>
+        <titleItalian>Haven</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>11</episodeNumber>
     </episode>
     <episode uid="EPMA0000006776">
         <title>The Conscience of the King</title>
-        <titleitalian>La magnificenza del re</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>12</episodenumber>
+        <titleItalian>La magnificenza del re</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>12</episodeNumber>
     </episode>
     <episode uid="EPMA0000000503">
         <title>Datalore</title>
-        <titleitalian>Datalore</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>13</episodenumber>
+        <titleItalian>Datalore</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>13</episodeNumber>
     </episode>
     <episode uid="EPMA0000000426">
         <title>The Galileo Seven</title>
-        <titleitalian>La Galileo</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>13</episodenumber>
+        <titleItalian>La Galileo</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>13</episodeNumber>
     </episode>
     <episode uid="EPMA0000000427">
         <title>Court Martial</title>
-        <titleitalian>Corte marziale</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>14</episodenumber>
+        <titleItalian>Corte marziale</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>14</episodeNumber>
     </episode>
     <episode uid="EPMA0000001158">
         <title>The Eye of the Beholder</title>
-        <titleitalian>Con gli occhi dello spettatore</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>15</episodenumber>
+        <titleItalian>Con gli occhi dello spettatore</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>15</episodeNumber>
     </episode>
     <episode uid="EPMA0000006777">
         <title>Shore Leave</title>
-        <titleitalian>Licenza di sbarco</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>17</episodenumber>
+        <titleItalian>Licenza di sbarco</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>17</episodeNumber>
     </episode>
     <episode uid="EPMA0000001029">
         <title>Fusion</title>
-        <titleitalian>La fusione</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>17</episodenumber>
+        <titleItalian>La fusione</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>17</episodeNumber>
     </episode>
     <episode uid="EPMA0000000513">
         <title>Symbiosis</title>
-        <titleitalian>Simbiosi</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>22</episodenumber>
+        <titleItalian>Simbiosi</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>22</episodeNumber>
     </episode>
     <episode uid="EPMA0000000435">
         <title>The Return of the Archons</title>
-        <titleitalian>Il ritorno degli Arconti</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>22</episodenumber>
+        <titleItalian>Il ritorno degli Arconti</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>22</episodeNumber>
     </episode>
     <episode uid="EPMA0000000436">
         <title>A Taste of Armageddon</title>
-        <titleitalian>Una guerra incredibile</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>23</episodenumber>
+        <titleItalian>Una guerra incredibile</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>23</episodeNumber>
     </episode>
     <episode uid="EPMA0000000439">
         <title>Errand of Mercy</title>
-        <titleitalian>Missione di pace</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>27</episodenumber>
+        <titleItalian>Missione di pace</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>27</episodeNumber>
     </episode>
     <episode uid="EPMA0000000441">
         <title>Operation -- Annihilate!</title>
-        <titleitalian>Pianeta Deneva</titleitalian>
-        <seasonnumber>1</seasonnumber>
-        <episodenumber>29</episodenumber>
+        <titleItalian>Pianeta Deneva</titleItalian>
+        <seasonNumber>1</seasonNumber>
+        <episodeNumber>29</episodeNumber>
     </episode>
     <episode uid="EPMA0000001312">
         <title>The Child</title>
-        <titleitalian>Il bambino</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>1</episodenumber>
+        <titleItalian>Il bambino</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>1</episodeNumber>
     </episode>
     <episode uid="EPMA0000006964">
         <title>Bem</title>
-        <titleitalian>Il comandante Bem</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>2</episodenumber>
+        <titleItalian>Il comandante Bem</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>2</episodeNumber>
     </episode>
     <episode uid="EPMA0000006965">
         <title>The Practical Joker</title>
-        <titleitalian>Il computer si diverte</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>3</episodenumber>
+        <titleItalian>Il computer si diverte</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>3</episodeNumber>
     </episode>
     <episode uid="EPMA0000085074">
         <title>Elementary, Dear Data</title>
-        <titleitalian>Elementare, caro Data</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>3</episodenumber>
+        <titleItalian>Elementare, caro Data</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>3</episodeNumber>
     </episode>
     <episode uid="EPMA0000000445">
         <title>Who Mourns for Adonais?</title>
-        <titleitalian>Dominati da Apollo</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>4</episodenumber>
+        <titleItalian>Dominati da Apollo</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>4</episodeNumber>
     </episode>
     <episode uid="EPMA0000000862">
         <title>Invasive Procedures</title>
-        <titleitalian>Il simbionte</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>4</episodenumber>
+        <titleItalian>Il simbionte</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>4</episodeNumber>
     </episode>
     <episode uid="EPMA0000001315">
         <title>The Outrageous Okona</title>
-        <titleitalian>Okona l'immorale</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>4</episodenumber>
+        <titleItalian>Okona l'immorale</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>4</episodeNumber>
     </episode>
     <episode uid="EPMA0000000446">
         <title>Amok Time</title>
-        <titleitalian>Il duello</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>5</episodenumber>
+        <titleItalian>Il duello</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>5</episodeNumber>
     </episode>
     <episode uid="EPMA0000127926">
         <title>Loud As A Whisper</title>
-        <titleitalian>Rumoroso come un sussurro</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>5</episodenumber>
+        <titleItalian>Rumoroso come un sussurro</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>5</episodeNumber>
     </episode>
     <episode uid="EPMA0000001316">
         <title>The Schizoid Man</title>
-        <titleitalian>L'uomo schizoide</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>6</episodenumber>
+        <titleItalian>L'uomo schizoide</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>6</episodeNumber>
     </episode>
     <episode uid="EPMA0000000448">
         <title>Wolf in the Fold</title>
-        <titleitalian>Fantasmi del passato</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>7</episodenumber>
+        <titleItalian>Fantasmi del passato</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>7</episodeNumber>
     </episode>
     <episode uid="EPMA0000000449">
         <title>The Changeling</title>
-        <titleitalian>La sfida</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>8</episodenumber>
+        <titleItalian>La sfida</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>8</episodeNumber>
     </episode>
     <episode uid="EPMA0000001321">
         <title>The Measure Of A Man</title>
-        <titleitalian>La misura di un uomo</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>9</episodenumber>
+        <titleItalian>La misura di un uomo</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>9</episodeNumber>
     </episode>
     <episode uid="EPMA0000001322">
         <title>The Dauphin</title>
-        <titleitalian>La delfina</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>10</episodenumber>
+        <titleItalian>La delfina</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>10</episodeNumber>
     </episode>
     <episode uid="EPMA0000003481">
         <title>Precious Cargo</title>
-        <titleitalian>Un carico prezioso</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>11</episodenumber>
+        <titleItalian>Un carico prezioso</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>11</episodeNumber>
     </episode>
     <episode uid="EPMA0000000452">
         <title>The Deadly Years</title>
-        <titleitalian>Gli anni della morte</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>11</episodenumber>
+        <titleItalian>Gli anni della morte</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>11</episodeNumber>
     </episode>
     <episode uid="EPMA0000000453">
         <title>I, Mudd</title>
-        <titleitalian>Io, Mudd</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>12</episodenumber>
+        <titleItalian>Io, Mudd</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>12</episodeNumber>
     </episode>
     <episode uid="EPMA0000001324">
         <title>The Royale</title>
-        <titleitalian>Hotel Royale</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>12</episodenumber>
+        <titleItalian>Hotel Royale</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>12</episodeNumber>
     </episode>
     <episode uid="EPMA0000003483">
         <title>Dawn</title>
-        <titleitalian>Il mio nemico</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>13</episodenumber>
+        <titleItalian>Il mio nemico</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>13</episodeNumber>
     </episode>
     <episode uid="EPMA0000001326">
         <title>The Icarus Factor</title>
-        <titleitalian>Fattore Icaro</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>14</episodenumber>
+        <titleItalian>Fattore Icaro</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>14</episodeNumber>
     </episode>
     <episode uid="EPMA0000003484">
         <title>Stigma</title>
-        <titleitalian>La sindrome</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>14</episodenumber>
+        <titleItalian>La sindrome</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>14</episodeNumber>
     </episode>
     <episode uid="EPMA0000001328">
         <title>Pen Pals</title>
-        <titleitalian>Amici per la pelle</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>15</episodenumber>
+        <titleItalian>Amici per la pelle</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>15</episodeNumber>
     </episode>
     <episode uid="EPMA0000000458">
         <title>The Gamesters of Triskelion</title>
-        <titleitalian>La posta in gioco</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>17</episodenumber>
+        <titleItalian>La posta in gioco</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>17</episodeNumber>
     </episode>
     <episode uid="EPMA0000001332">
         <title>Manhunt</title>
-        <titleitalian>Caccia all'uomo</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>19</episodenumber>
+        <titleItalian>Caccia all'uomo</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>19</episodeNumber>
     </episode>
     <episode uid="EPMA0000001333">
         <title>The Emissary</title>
-        <titleitalian>L'emissario</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>20</episodenumber>
+        <titleItalian>L'emissario</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>20</episodeNumber>
     </episode>
     <episode uid="EPMA0000001335">
         <title>Shades of Gray</title>
-        <titleitalian>Ombre dal passato</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>22</episodenumber>
+        <titleItalian>Ombre dal passato</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>22</episodeNumber>
     </episode>
     <episode uid="EPMA0000000711">
         <title>Regeneration</title>
-        <titleitalian>Rigenerazione</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>23</episodenumber>
+        <titleItalian>Rigenerazione</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>23</episodeNumber>
     </episode>
     <episode uid="EPMA0000001497">
         <title>Tuvix</title>
-        <titleitalian>Tuvix</titleitalian>
-        <seasonnumber>2</seasonnumber>
-        <episodenumber>24</episodenumber>
+        <titleItalian>Tuvix</titleItalian>
+        <seasonNumber>2</seasonNumber>
+        <episodeNumber>24</episodeNumber>
     </episode>
     <episode uid="EPMA0000001989">
         <title>Rajiin</title>
-        <titleitalian>Rajiin</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>4</episodenumber>
+        <titleItalian>Rajiin</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>4</episodeNumber>
     </episode>
     <episode uid="EPMA0000000471">
         <title>The Enterprise Incident</title>
-        <titleitalian>Incidente all'Enterprise</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>4</episodenumber>
+        <titleItalian>Incidente all'Enterprise</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>4</episodeNumber>
     </episode>
     <episode uid="EPMA0000000472">
         <title>And the Children Shall Lead</title>
-        <titleitalian>Sul pianeta Triacon</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>5</episodenumber>
+        <titleItalian>Sul pianeta Triacon</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>5</episodeNumber>
     </episode>
     <episode uid="EPMA0000001340">
         <title>Booby Trap</title>
-        <titleitalian>Trappola spaziale</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>6</episodenumber>
+        <titleItalian>Trappola spaziale</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>6</episodeNumber>
     </episode>
     <episode uid="EPMA0000000474">
         <title>Is There in Truth No Beauty?</title>
-        <titleitalian>La bellezza è verità?</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>7</episodenumber>
+        <titleItalian>La bellezza è verità?</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>7</episodeNumber>
     </episode>
     <episode uid="EPMA0000000477">
         <title>For the World is Hollow and I Have Touched the Sky</title>
-        <titleitalian>Ho toccato il cielo</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>10</episodenumber>
+        <titleItalian>Ho toccato il cielo</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>10</episodeNumber>
     </episode>
     <episode uid="EPMA0000000479">
         <title>Plato's Stepchildren</title>
-        <titleitalian>Umiliati per forza maggiore</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>12</episodenumber>
+        <titleItalian>Umiliati per forza maggiore</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>12</episodeNumber>
     </episode>
     <episode uid="EPMA0000001347">
         <title>Deja Q</title>
-        <titleitalian>Deja Q</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>13</episodenumber>
+        <titleItalian>Deja Q</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>13</episodeNumber>
     </episode>
     <episode uid="EPMA0000001513">
         <title>Alter Ego</title>
-        <titleitalian>Un amore impossibile</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>14</episodenumber>
+        <titleItalian>Un amore impossibile</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>14</episodeNumber>
     </episode>
     <episode uid="EPMA0000001515">
         <title>Blood Fever</title>
-        <titleitalian>La febbre del sangue</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>16</episodenumber>
+        <titleItalian>La febbre del sangue</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>16</episodeNumber>
     </episode>
     <episode uid="EPMA0000001349">
         <title>The Offspring</title>
-        <titleitalian>La figlia di Data</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>16</episodenumber>
+        <titleItalian>La figlia di Data</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>16</episodeNumber>
     </episode>
     <episode uid="EPMA0000000486">
         <title>The Lights of Zetar</title>
-        <titleitalian>Le speranze di Zetar</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>18</episodenumber>
+        <titleItalian>Le speranze di Zetar</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>18</episodeNumber>
     </episode>
     <episode uid="EPMA0000001353">
         <title>Tin Man</title>
-        <titleitalian>L'uomo di latta</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>20</episodenumber>
+        <titleItalian>L'uomo di latta</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>20</episodeNumber>
     </episode>
     <episode uid="EPMA0000000490">
         <title>Requiem for Methuselah</title>
-        <titleitalian>Requiem per Matusalemme</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>21</episodenumber>
+        <titleItalian>Requiem per Matusalemme</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>21</episodeNumber>
     </episode>
     <episode uid="EPMA0000001355">
         <title>The Most Toys</title>
-        <titleitalian>Il collezionista</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>22</episodenumber>
+        <titleItalian>Il collezionista</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>22</episodeNumber>
     </episode>
     <episode uid="EPMA0000001187">
         <title>Sarek</title>
-        <titleitalian>Sarek</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>23</episodenumber>
+        <titleItalian>Sarek</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>23</episodeNumber>
     </episode>
     <episode uid="EPMA0000000493">
         <title>All Our Yesterdays</title>
-        <titleitalian>Un tuffo nel passato</titleitalian>
-        <seasonnumber>3</seasonnumber>
-        <episodenumber>23</episodenumber>
+        <titleItalian>Un tuffo nel passato</titleItalian>
+        <seasonNumber>3</seasonNumber>
+        <episodeNumber>23</episodeNumber>
     </episode>
     <episode uid="EPMA0000006454">
         <title>Storm Front</title>
-        <titleitalian>Nuovo fronte temporale - prima parte</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>1</episodenumber>
+        <titleItalian>Nuovo fronte temporale - prima parte</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>1</episodeNumber>
     </episode>
     <episode uid="EPMA0000001361">
         <title>Brothers</title>
-        <titleitalian>Fratelli</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>3</episodenumber>
+        <titleItalian>Fratelli</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>3</episodeNumber>
     </episode>
     <episode uid="EPMA0000007252">
         <title>Borderland</title>
-        <titleitalian>Terra di confine</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>4</episodenumber>
+        <titleItalian>Terra di confine</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>4</episodeNumber>
     </episode>
     <episode uid="EPMA0000007841">
         <title>Cold Station 12</title>
-        <titleitalian>Stazione 12</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>5</episodenumber>
+        <titleItalian>Stazione 12</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>5</episodeNumber>
     </episode>
     <episode uid="EPMA0000001364">
         <title>Legacy</title>
-        <titleitalian>Sorelle</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>6</episodenumber>
+        <titleItalian>Sorelle</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>6</episodeNumber>
     </episode>
     <episode uid="EPMA0000009216">
         <title>The Augments</title>
-        <titleitalian>I potenziati</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>6</episodenumber>
+        <titleItalian>I potenziati</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>6</episodeNumber>
     </episode>
     <episode uid="EPMA0000009713">
         <title>The Forge</title>
-        <titleitalian>La Fornace</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>7</episodenumber>
+        <titleItalian>La Fornace</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>7</episodeNumber>
     </episode>
     <episode uid="EPMA0000001366">
         <title>Future Imperfect</title>
-        <titleitalian>Futuro imperfetto</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>8</episodenumber>
+        <titleItalian>Futuro imperfetto</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>8</episodeNumber>
     </episode>
     <episode uid="EPMA0000009981">
         <title>Awakening</title>
-        <titleitalian>Risvegli</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>8</episodenumber>
+        <titleItalian>Risvegli</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>8</episodeNumber>
     </episode>
     <episode uid="EPMA0000010341">
         <title>Kir'Shara</title>
-        <titleitalian>Il Kir'Shara</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>9</episodenumber>
+        <titleItalian>Il Kir'Shara</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>9</episodeNumber>
     </episode>
     <episode uid="EPMA0000001367">
         <title>Final Mission</title>
-        <titleitalian>L'ultima missione</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>9</episodenumber>
+        <titleItalian>L'ultima missione</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>9</episodeNumber>
     </episode>
     <episode uid="EPMA0000001368">
         <title>The Loss</title>
-        <titleitalian>La perdita</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>10</episodenumber>
+        <titleItalian>La perdita</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>10</episodeNumber>
     </episode>
     <episode uid="EPMA0000001369">
         <title>Data's Day</title>
-        <titleitalian>Una giornata di Data</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>11</episodenumber>
+        <titleItalian>Una giornata di Data</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>11</episodeNumber>
     </episode>
     <episode uid="EPMA0000001371">
         <title>Clues</title>
-        <titleitalian>Indizi</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>14</episodenumber>
+        <titleItalian>Indizi</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>14</episodeNumber>
     </episode>
     <episode uid="EPMA0000014329">
         <title>Bound</title>
-        <titleitalian>Le schiave di Orione</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>17</episodenumber>
+        <titleItalian>Le schiave di Orione</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>17</episodeNumber>
     </episode>
     <episode uid="EPMA0000001374">
         <title>Night Terrors</title>
-        <titleitalian>Terrori notturni</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>17</episodenumber>
+        <titleItalian>Terrori notturni</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>17</episodeNumber>
     </episode>
     <episode uid="EPMA0000000927">
         <title>Hard Time</title>
-        <titleitalian>Tempi difficili</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>19</episodenumber>
+        <titleItalian>Tempi difficili</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>19</episodeNumber>
     </episode>
     <episode uid="EPMA0000001377">
         <title>Qpid</title>
-        <titleitalian>Q-Pido</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>20</episodenumber>
+        <titleItalian>Q-Pido</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>20</episodeNumber>
     </episode>
     <episode uid="EPMA0000001379">
         <title>Half a Life</title>
-        <titleitalian>Una vita a metà</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>22</episodenumber>
+        <titleItalian>Una vita a metà</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>22</episodeNumber>
     </episode>
     <episode uid="EPMA0000001380">
         <title>The Host</title>
-        <titleitalian>L'ospite</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>23</episodenumber>
+        <titleItalian>L'ospite</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>23</episodeNumber>
     </episode>
     <episode uid="EPMA0000001382">
         <title>In Theory</title>
-        <titleitalian>Programma: amore</titleitalian>
-        <seasonnumber>4</seasonnumber>
-        <episodenumber>25</episodenumber>
+        <titleItalian>Programma: amore</titleItalian>
+        <seasonNumber>4</seasonNumber>
+        <episodeNumber>25</episodeNumber>
     </episode>
     <episode uid="EPMA0000001387">
         <title>Silicon Avatar</title>
-        <titleitalian>L'entità di cristallo</titleitalian>
-        <seasonnumber>5</seasonnumber>
-        <episodenumber>4</episodenumber>
+        <titleItalian>L'entità di cristallo</titleItalian>
+        <seasonNumber>5</seasonNumber>
+        <episodeNumber>4</episodeNumber>
     </episode>
     <episode uid="EPMA0000001390">
         <title>A Matter of Time</title>
-        <titleitalian>Uno strano visitatore</titleitalian>
-        <seasonnumber>5</seasonnumber>
-        <episodenumber>9</episodenumber>
+        <titleItalian>Uno strano visitatore</titleItalian>
+        <seasonNumber>5</seasonNumber>
+        <episodeNumber>9</episodeNumber>
     </episode>
     <episode uid="EPMA0000001392">
         <title>Hero Worship</title>
-        <titleitalian>Un eroe da imitare</titleitalian>
-        <seasonnumber>5</seasonnumber>
-        <episodenumber>11</episodenumber>
+        <titleItalian>Un eroe da imitare</titleItalian>
+        <seasonNumber>5</seasonNumber>
+        <episodeNumber>11</episodeNumber>
     </episode>
     <episode uid="EPMA0000001562">
         <title>Bride of Chaotica!</title>
-        <titleitalian>La sposa di Chaotica</titleitalian>
-        <seasonnumber>5</seasonnumber>
-        <episodenumber>12</episodenumber>
+        <titleItalian>La sposa di Chaotica</titleItalian>
+        <seasonNumber>5</seasonNumber>
+        <episodeNumber>12</episodeNumber>
     </episode>
     <episode uid="EPMA0000001395">
         <title>Conundrum</title>
-        <titleitalian>Amnesia</titleitalian>
-        <seasonnumber>5</seasonnumber>
-        <episodenumber>14</episodenumber>
+        <titleItalian>Amnesia</titleItalian>
+        <seasonNumber>5</seasonNumber>
+        <episodeNumber>14</episodeNumber>
     </episode>
     <episode uid="EPMA0000001396">
         <title>Power Play</title>
-        <titleitalian>Gioco di potere</titleitalian>
-        <seasonnumber>5</seasonnumber>
-        <episodenumber>15</episodenumber>
+        <titleItalian>Gioco di potere</titleItalian>
+        <seasonNumber>5</seasonNumber>
+        <episodeNumber>15</episodeNumber>
     </episode>
     <episode uid="EPMA0000001401">
         <title>Cost of Living</title>
-        <titleitalian>Il prezzo della vita</titleitalian>
-        <seasonnumber>5</seasonnumber>
-        <episodenumber>20</episodenumber>
+        <titleItalian>Il prezzo della vita</titleItalian>
+        <seasonNumber>5</seasonNumber>
+        <episodeNumber>20</episodeNumber>
     </episode>
     <episode uid="EPMA0000001402">
         <title>The Perfect Mate</title>
-        <titleitalian>La donna perfetta</titleitalian>
-        <seasonnumber>5</seasonnumber>
-        <episodenumber>21</episodenumber>
+        <titleItalian>La donna perfetta</titleItalian>
+        <seasonNumber>5</seasonNumber>
+        <episodeNumber>21</episodeNumber>
     </episode>
     <episode uid="EPMA0000001403">
         <title>Imaginary Friend</title>
-        <titleitalian>Un'amica immaginaria</titleitalian>
-        <seasonnumber>5</seasonnumber>
-        <episodenumber>22</episodenumber>
+        <titleItalian>Un'amica immaginaria</titleItalian>
+        <seasonNumber>5</seasonNumber>
+        <episodeNumber>22</episodeNumber>
     </episode>
     <episode uid="EPMA0000001405">
         <title>The Next Phase</title>
-        <titleitalian>Un'altra dimensione</titleitalian>
-        <seasonnumber>5</seasonnumber>
-        <episodenumber>24</episodenumber>
+        <titleItalian>Un'altra dimensione</titleItalian>
+        <seasonNumber>5</seasonNumber>
+        <episodeNumber>24</episodeNumber>
     </episode>
     <episode uid="EPMA0000001413">
         <title>True Q</title>
-        <titleitalian>Una vera Q</titleitalian>
-        <seasonnumber>6</seasonnumber>
-        <episodenumber>6</episodenumber>
+        <titleItalian>Una vera Q</titleItalian>
+        <seasonNumber>6</seasonNumber>
+        <episodeNumber>6</episodeNumber>
     </episode>
     <episode uid="EPMA0000001414">
         <title>Rascals</title>
-        <titleitalian>Giovani eroi</titleitalian>
-        <seasonnumber>6</seasonnumber>
-        <episodenumber>7</episodenumber>
+        <titleItalian>Giovani eroi</titleItalian>
+        <seasonNumber>6</seasonNumber>
+        <episodeNumber>7</episodeNumber>
     </episode>
     <episode uid="EPMA0000001416">
         <title>The Quality of Life</title>
-        <titleitalian>Il sapore della vita</titleitalian>
-        <seasonnumber>6</seasonnumber>
-        <episodenumber>9</episodenumber>
+        <titleItalian>Il sapore della vita</titleItalian>
+        <seasonNumber>6</seasonNumber>
+        <episodeNumber>9</episodeNumber>
     </episode>
     <episode uid="EPMA0000001417">
         <title>Chain of Command, Part I</title>
-        <titleitalian>Il peso del comando - prima parte</titleitalian>
-        <seasonnumber>6</seasonnumber>
-        <episodenumber>10</episodenumber>
+        <titleItalian>Il peso del comando - prima parte</titleItalian>
+        <seasonNumber>6</seasonNumber>
+        <episodeNumber>10</episodeNumber>
     </episode>
     <episode uid="EPMA0000001419">
         <title>Chain of Command, Part II</title>
-        <titleitalian>Il peso del comando - seconda parte</titleitalian>
-        <seasonnumber>6</seasonnumber>
-        <episodenumber>11</episodenumber>
+        <titleItalian>Il peso del comando - seconda parte</titleItalian>
+        <seasonNumber>6</seasonNumber>
+        <episodeNumber>11</episodeNumber>
     </episode>
     <episode uid="EPMA0000001423">
         <title>Birthright, Part I</title>
-        <titleitalian>La voce del sangue - prima parte</titleitalian>
-        <seasonnumber>6</seasonnumber>
-        <episodenumber>16</episodenumber>
+        <titleItalian>La voce del sangue - prima parte</titleItalian>
+        <seasonNumber>6</seasonNumber>
+        <episodeNumber>16</episodeNumber>
     </episode>
     <episode uid="EPMA0000001426">
         <title>Lessons</title>
-        <titleitalian>Amore e dovere</titleitalian>
-        <seasonnumber>6</seasonnumber>
-        <episodenumber>19</episodenumber>
+        <titleItalian>Amore e dovere</titleItalian>
+        <seasonNumber>6</seasonNumber>
+        <episodeNumber>19</episodeNumber>
     </episode>
     <episode uid="EPMA0000001428">
         <title>Frame of Mind</title>
-        <titleitalian>Schegge di realtà</titleitalian>
-        <seasonnumber>6</seasonnumber>
-        <episodenumber>21</episodenumber>
+        <titleItalian>Schegge di realtà</titleItalian>
+        <seasonNumber>6</seasonNumber>
+        <episodeNumber>21</episodeNumber>
     </episode>
     <episode uid="EPMA0000001429">
         <title>Suspicions</title>
-        <titleitalian>Sospetti</titleitalian>
-        <seasonnumber>6</seasonnumber>
-        <episodenumber>22</episodenumber>
+        <titleItalian>Sospetti</titleItalian>
+        <seasonNumber>6</seasonNumber>
+        <episodeNumber>22</episodeNumber>
     </episode>
     <episode uid="EPMA0000001435">
         <title>Descent, Part II</title>
-        <titleitalian>Il ritorno dei Borg - seconda parte</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>1</episodenumber>
+        <titleItalian>Il ritorno dei Borg - seconda parte</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>1</episodeNumber>
     </episode>
     <episode uid="EPMA0000001436">
         <title>Liaisons</title>
-        <titleitalian>Diplomazia spaziale</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>2</episodenumber>
+        <titleItalian>Diplomazia spaziale</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>2</episodeNumber>
     </episode>
     <episode uid="EPMA0000001602">
         <title>Imperfection</title>
-        <titleitalian>Imperfezione</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>2</episodenumber>
+        <titleItalian>Imperfezione</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>2</episodeNumber>
     </episode>
     <episode uid="EPMA0000001437">
         <title>Interface</title>
-        <titleitalian>L'interfaccia</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>3</episodenumber>
+        <titleItalian>L'interfaccia</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>3</episodeNumber>
     </episode>
     <episode uid="EPMA0000001440">
         <title>Phantasms</title>
-        <titleitalian>Programma: sogno</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>6</episodenumber>
+        <titleItalian>Programma: sogno</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>6</episodeNumber>
     </episode>
     <episode uid="EPMA0000001441">
         <title>Dark Page</title>
-        <titleitalian>La porta chiusa</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>7</episodenumber>
+        <titleItalian>La porta chiusa</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>7</episodeNumber>
     </episode>
     <episode uid="EPMA0000001444">
         <title>Inheritance</title>
-        <titleitalian>Una madre per Data</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>10</episodenumber>
+        <titleItalian>Una madre per Data</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>10</episodeNumber>
     </episode>
     <episode uid="EPMA0000001612">
         <title>Lineage</title>
-        <titleitalian>Discendenza</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>12</episodenumber>
+        <titleItalian>Discendenza</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>12</episodeNumber>
     </episode>
     <episode uid="EPMA0000001449">
         <title>Thine Own Self</title>
-        <titleitalian>Radioattività</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>16</episodenumber>
+        <titleItalian>Radioattività</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>16</episodeNumber>
     </episode>
     <episode uid="EPMA0000001450">
         <title>Masks</title>
-        <titleitalian>Maschere</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>17</episodenumber>
+        <titleItalian>Maschere</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>17</episodeNumber>
     </episode>
     <episode uid="EPMA0000001453">
         <title>Journey's End</title>
-        <titleitalian>La fine del viaggio</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>20</episodenumber>
+        <titleItalian>La fine del viaggio</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>20</episodeNumber>
     </episode>
     <episode uid="EPMA0000001457">
         <title>Preemptive Strike</title>
-        <titleitalian>Il tenente Ro</titleitalian>
-        <seasonnumber>7</seasonnumber>
-        <episodenumber>24</episodenumber>
+        <titleItalian>Il tenente Ro</titleItalian>
+        <seasonNumber>7</seasonNumber>
+        <episodeNumber>24</episodeNumber>
     </episode>
 </episodes>
