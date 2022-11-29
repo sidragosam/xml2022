@@ -25,7 +25,7 @@ let $document :=
             return if ($episode?seasonNumber >= 5)
                 then (
                 <episode season="{$episode?season?title}" uid="{$episode?season?uid}" number="{$episode?seasonNumber}">
-                <episodenumber>{$episode?episodeNumber}"</episodenumber>
+                <episodeNumber>{$episode?episodeNumber}</episodeNumber>
                 <title>{$episode?title}</title>
                 </episode>)
           else ()
