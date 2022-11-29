@@ -1,6 +1,6 @@
 (:Azon epizódok mutatása validált XML-ben, amelyek rendelkeznek olasz címmel Season és Epizód szerint növekvő sorrendben:)
 xquery version "3.1";
-import schema default element namespace "" at "task4.xsd";
+import schema default element namespace "" at "task4-5.xsd";
 declare namespace array = "http://www.w3.org/2005/xpath-functions/array";
 declare namespace validate = "http://basex.org/modules/validate";
 
@@ -13,7 +13,7 @@ let $episodes :=local:getItalianEpisodes()
 
 let $document := 
     <episodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="task4.xsd">
+    xsi:noNamespaceSchemaLocation="task4-5.xsd">
         {
           for $episode in $episodes
           let $seasonnum := $episode?seasonNumber
