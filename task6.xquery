@@ -38,9 +38,9 @@ let $document :=
           return if($performer?gender eq "M") then (
           <performer uid="{$performer?uid}">
             <name>{$performer?name}</name>
-            <birthname>{$performer?birthName}</birthname>
+            <birthName>{$performer?birthName}</birthName>
             <gender>{$performer?gender}</gender>
-            <dateofbirth>{$performer?dateOfBirth}</dateofbirth>
+            <dateOfBirth>{$performer?dateOfBirth}</dateOfBirth>
           </performer>)
           else ()
         }
