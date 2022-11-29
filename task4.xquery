@@ -22,9 +22,9 @@ let $document :=
           return 
           <episode uid="{$episode?uid}">
             <title>{$episode?title}</title>
-            <titleitalian>{$episode?titleItalian}</titleitalian>
-            <seasonnumber>{$seasonnum}</seasonnumber>
-            <episodenumber>{$episodenum}</episodenumber>
+            <titleItalian>{$episode?titleItalian}</titleItalian>
+            <seasonNumber>{$seasonnum}</seasonNumber>
+            <episodeNumber>{$episodenum}</episodeNumber>
           </episode>
         }
     </episodes>
