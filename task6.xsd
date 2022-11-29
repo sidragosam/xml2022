@@ -10,14 +10,21 @@
 			<xs:attribute name="title" type="xs:string" use="required"/>
         </xs:complexType>
     </xs:element>
+	
+	<xs:simpleType name="genderType" final="restriction" >
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="F" />
+			<xs:enumeration value="M" />
+		</xs:restriction>
+	</xs:simpleType>
     
     <xs:element name="performer">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="name" minOccurs="1" maxOccurs="1"/>
-                <xs:element name="birthname" minOccurs="0" maxOccurs="1"/>
-				<xs:element name="gender" minOccurs="0" maxOccurs="1"/>
-				<xs:element name="dateofbirth" minOccurs="0" maxOccurs="1"/>
+                <xs:element name="name" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="birthName" type="xs:string" minOccurs="0" maxOccurs="1"/>
+				<xs:element name="gender" type="genderType" minOccurs="0" maxOccurs="1"/>
+				<xs:element name="dateOfBirth" type="xs:date" minOccurs="0" maxOccurs="1"/>
             </xs:sequence>
             <xs:attribute name="uid" type="xs:string" use="required"/>
         </xs:complexType>
