@@ -2,919 +2,919 @@
 <episodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:noNamespaceSchemaLocation="task7.xsd">
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>18"</episodenumber>
+        <episodeNumber>18</episodeNumber>
         <title>'Til Death Do Us Part</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>23"</episodenumber>
+        <episodeNumber>23</episodeNumber>
         <title>11:59</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>8"</episodenumber>
+        <episodeNumber>8</episodeNumber>
         <title>A Fistful of Datas</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>9"</episodenumber>
+        <episodeNumber>9</episodeNumber>
         <title>A Matter of Time</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>17"</episodenumber>
+        <episodeNumber>17</episodeNumber>
         <title>A Simple Investigation</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>1"</episodenumber>
+        <episodeNumber>1</episodeNumber>
         <title>A Time to Stand</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>3"</episodenumber>
+        <episodeNumber>3</episodeNumber>
         <title>Afterimage</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>5"</episodenumber>
+        <episodeNumber>5</episodeNumber>
         <title>Alice</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>25"</episodenumber>
+        <episodeNumber>25</episodeNumber>
         <title>All Good Things...</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>1"</episodenumber>
+        <episodeNumber>1</episodeNumber>
         <title>Apocalypse Rising</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>13"</episodenumber>
+        <episodeNumber>13</episodeNumber>
         <title>Aquiel</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>18"</episodenumber>
+        <episodeNumber>18</episodeNumber>
         <title>Ashes to Ashes</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>8"</episodenumber>
+        <episodeNumber>8</episodeNumber>
         <title>Attached</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>20"</episodenumber>
+        <episodeNumber>20</episodeNumber>
         <title>Author, Author</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>15"</episodenumber>
+        <episodeNumber>15</episodeNumber>
         <title>Badda-Bing, Badda-Bang</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>3"</episodenumber>
+        <episodeNumber>3</episodeNumber>
         <title>Barge of the Dead</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>4"</episodenumber>
+        <episodeNumber>4</episodeNumber>
         <title>Behind the Lines</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>16"</episodenumber>
+        <episodeNumber>16</episodeNumber>
         <title>Birthright, Part I</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>17"</episodenumber>
+        <episodeNumber>17</episodeNumber>
         <title>Birthright, Part II</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>23"</episodenumber>
+        <episodeNumber>23</episodeNumber>
         <title>Blaze of Glory</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>12"</episodenumber>
+        <episodeNumber>12</episodeNumber>
         <title>Blink of an Eye</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>14"</episodenumber>
+        <episodeNumber>14</episodeNumber>
         <title>Bliss</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>22"</episodenumber>
+        <episodeNumber>22</episodeNumber>
         <title>Bloodlines</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>7"</episodenumber>
+        <episodeNumber>7</episodeNumber>
         <title>Body and Soul</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>12"</episodenumber>
+        <episodeNumber>12</episodeNumber>
         <title>Bride of Chaotica!</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>18"</episodenumber>
+        <episodeNumber>18</episodeNumber>
         <title>Business as Usual</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>15"</episodenumber>
+        <episodeNumber>15</episodeNumber>
         <title>By Inferno's Light</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>26"</episodenumber>
+        <episodeNumber>26</episodeNumber>
         <title>Call to Arms</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>18"</episodenumber>
+        <episodeNumber>18</episodeNumber>
         <title>Cause and Effect</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>10"</episodenumber>
+        <episodeNumber>10</episodeNumber>
         <title>Chain of Command, Part I</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>11"</episodenumber>
+        <episodeNumber>11</episodeNumber>
         <title>Chain of Command, Part II</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>16"</episodenumber>
+        <episodeNumber>16</episodeNumber>
         <title>Change of Heart</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>19"</episodenumber>
+        <episodeNumber>19</episodeNumber>
         <title>Child's Play</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>22"</episodenumber>
+        <episodeNumber>22</episodeNumber>
         <title>Children of Time</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>14"</episodenumber>
+        <episodeNumber>14</episodeNumber>
         <title>Chimera</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>5"</episodenumber>
+        <episodeNumber>5</episodeNumber>
         <title>Chrysalis</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>16"</episodenumber>
+        <episodeNumber>16</episodeNumber>
         <title>Collective</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>14"</episodenumber>
+        <episodeNumber>14</episodeNumber>
         <title>Conundrum</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>20"</episodenumber>
+        <episodeNumber>20</episodeNumber>
         <title>Cost of Living</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>10"</episodenumber>
+        <episodeNumber>10</episodeNumber>
         <title>Counterpoint</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>18"</episodenumber>
+        <episodeNumber>18</episodeNumber>
         <title>Course: Oblivion</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>9"</episodenumber>
+        <episodeNumber>9</episodeNumber>
         <title>Covenant</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>5"</episodenumber>
+        <episodeNumber>5</episodeNumber>
         <title>Critical Care</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>15"</episodenumber>
+        <episodeNumber>15</episodeNumber>
         <title>Dark Frontier</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>7"</episodenumber>
+        <episodeNumber>7</episodeNumber>
         <title>Dark Page</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>2"</episodenumber>
+        <episodeNumber>2</episodeNumber>
         <title>Darmok</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>26"</episodenumber>
+        <episodeNumber>26</episodeNumber>
         <title>Descent</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>1"</episodenumber>
+        <episodeNumber>1</episodeNumber>
         <title>Descent, Part II</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>5"</episodenumber>
+        <episodeNumber>5</episodeNumber>
         <title>Disaster</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>16"</episodenumber>
+        <episodeNumber>16</episodeNumber>
         <title>Doctor Bashir, I Presume</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>7"</episodenumber>
+        <episodeNumber>7</episodeNumber>
         <title>Dragon's Teeth</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>3"</episodenumber>
+        <episodeNumber>3</episodeNumber>
         <title>Drive</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>2"</episodenumber>
+        <episodeNumber>2</episodeNumber>
         <title>Drone</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>23"</episodenumber>
+        <episodeNumber>23</episodeNumber>
         <title>Emergence</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>24"</episodenumber>
+        <episodeNumber>24</episodeNumber>
         <title>Empok Nor</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>25"</episodenumber>
+        <episodeNumber>25</episodeNumber>
         <title>Endgame</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>3"</episodenumber>
+        <episodeNumber>3</episodeNumber>
         <title>Ensign Ro</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>26"</episodenumber>
+        <episodeNumber>26</episodeNumber>
         <title>Equinox</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>1"</episodenumber>
+        <episodeNumber>1</episodeNumber>
         <title>Equinox, Part II</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>16"</episodenumber>
+        <episodeNumber>16</episodeNumber>
         <title>Ethics</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>23"</episodenumber>
+        <episodeNumber>23</episodeNumber>
         <title>Extreme Measures</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>3"</episodenumber>
+        <episodeNumber>3</episodeNumber>
         <title>Extreme Risk</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>18"</episodenumber>
+        <episodeNumber>18</episodeNumber>
         <title>Eye of the Beholder</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>14"</episodenumber>
+        <episodeNumber>14</episodeNumber>
         <title>Face of the Enemy</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>11"</episodenumber>
+        <episodeNumber>11</episodeNumber>
         <title>Fair Haven</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>13"</episodenumber>
+        <episodeNumber>13</episodeNumber>
         <title>Far Beyond the Stars</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>5"</episodenumber>
+        <episodeNumber>5</episodeNumber>
         <title>Favor the Bold</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>20"</episodenumber>
+        <episodeNumber>20</episodeNumber>
         <title>Ferengi Love Songs</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>13"</episodenumber>
+        <episodeNumber>13</episodeNumber>
         <title>Field of Fire</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>21"</episodenumber>
+        <episodeNumber>21</episodeNumber>
         <title>Firstborn</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>9"</episodenumber>
+        <episodeNumber>9</episodeNumber>
         <title>Flesh and Blood</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>13"</episodenumber>
+        <episodeNumber>13</episodeNumber>
         <title>For the Uniform</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>9"</episodenumber>
+        <episodeNumber>9</episodeNumber>
         <title>Force of Nature</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>21"</episodenumber>
+        <episodeNumber>21</episodeNumber>
         <title>Frame of Mind</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>21"</episodenumber>
+        <episodeNumber>21</episodeNumber>
         <title>Friendship One</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>23"</episodenumber>
+        <episodeNumber>23</episodeNumber>
         <title>Fury</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>4"</episodenumber>
+        <episodeNumber>4</episodeNumber>
         <title>Gambit, Part I</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>5"</episodenumber>
+        <episodeNumber>5</episodeNumber>
         <title>Gambit, Part II</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>19"</episodenumber>
+        <episodeNumber>19</episodeNumber>
         <title>Genesis</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>20"</episodenumber>
+        <episodeNumber>20</episodeNumber>
         <title>Good Shepherd</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>13"</episodenumber>
+        <episodeNumber>13</episodeNumber>
         <title>Gravity</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>11"</episodenumber>
+        <episodeNumber>11</episodeNumber>
         <title>Hero Worship</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>20"</episodenumber>
+        <episodeNumber>20</episodeNumber>
         <title>His Way</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>23"</episodenumber>
+        <episodeNumber>23</episodeNumber>
         <title>Homestead</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>13"</episodenumber>
+        <episodeNumber>13</episodeNumber>
         <title>Homeward</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>15"</episodenumber>
+        <episodeNumber>15</episodeNumber>
         <title>Honor Among Thieves</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>18"</episodenumber>
+        <episodeNumber>18</episodeNumber>
         <title>Human Error</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>23"</episodenumber>
+        <episodeNumber>23</episodeNumber>
         <title>I Borg</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>1"</episodenumber>
+        <episodeNumber>1</episodeNumber>
         <title>Image in the Sand</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>22"</episodenumber>
+        <episodeNumber>22</episodeNumber>
         <title>Imaginary Friend</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>2"</episodenumber>
+        <episodeNumber>2</episodeNumber>
         <title>Imperfection</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>14"</episodenumber>
+        <episodeNumber>14</episodeNumber>
         <title>In Purgatory's Shadow</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>25"</episodenumber>
+        <episodeNumber>25</episodeNumber>
         <title>In the Cards</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>4"</episodenumber>
+        <episodeNumber>4</episodeNumber>
         <title>In the Flesh</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>19"</episodenumber>
+        <episodeNumber>19</episodeNumber>
         <title>In the Pale Moonlight</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>7"</episodenumber>
+        <episodeNumber>7</episodeNumber>
         <title>Infinite Regress</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>10"</episodenumber>
+        <episodeNumber>10</episodeNumber>
         <title>Inheritance</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>18"</episodenumber>
+        <episodeNumber>18</episodeNumber>
         <title>Inquisition</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>6"</episodenumber>
+        <episodeNumber>6</episodeNumber>
         <title>Inside Man</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>16"</episodenumber>
+        <episodeNumber>16</episodeNumber>
         <title>Inter Arma Enim Silent Leges</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>3"</episodenumber>
+        <episodeNumber>3</episodeNumber>
         <title>Interface</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>10"</episodenumber>
+        <episodeNumber>10</episodeNumber>
         <title>It's Only a Paper Moon</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>20"</episodenumber>
+        <episodeNumber>20</episodeNumber>
         <title>Journey's End</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>21"</episodenumber>
+        <episodeNumber>21</episodeNumber>
         <title>Juggernaut</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>11"</episodenumber>
+        <episodeNumber>11</episodeNumber>
         <title>Latent Image</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>19"</episodenumber>
+        <episodeNumber>19</episodeNumber>
         <title>Lessons</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>7"</episodenumber>
+        <episodeNumber>7</episodeNumber>
         <title>Let He Who Is Without Sin...</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>2"</episodenumber>
+        <episodeNumber>2</episodeNumber>
         <title>Liaisons</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>24"</episodenumber>
+        <episodeNumber>24</episodeNumber>
         <title>Life Line</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>12"</episodenumber>
+        <episodeNumber>12</episodeNumber>
         <title>Lineage</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>21"</episodenumber>
+        <episodeNumber>21</episodeNumber>
         <title>Live Fast and Prosper</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>3"</episodenumber>
+        <episodeNumber>3</episodeNumber>
         <title>Looking for par'Mach in All the Wrong Places</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>15"</episodenumber>
+        <episodeNumber>15</episodeNumber>
         <title>Lower Decks</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>3"</episodenumber>
+        <episodeNumber>3</episodeNumber>
         <title>Man of the People</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>17"</episodenumber>
+        <episodeNumber>17</episodeNumber>
         <title>Masks</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>14"</episodenumber>
+        <episodeNumber>14</episodeNumber>
         <title>Memorial</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>22"</episodenumber>
+        <episodeNumber>22</episodeNumber>
         <title>Muse</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>22"</episodenumber>
+        <episodeNumber>22</episodeNumber>
         <title>Natural Law</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>10"</episodenumber>
+        <episodeNumber>10</episodeNumber>
         <title>New Ground</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>1"</episodenumber>
+        <episodeNumber>1</episodeNumber>
         <title>Night</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>8"</episodenumber>
+        <episodeNumber>8</episodeNumber>
         <title>Nightingale</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>4"</episodenumber>
+        <episodeNumber>4</episodeNumber>
         <title>Nor the Battle to the Strong</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>8"</episodenumber>
+        <episodeNumber>8</episodeNumber>
         <title>Nothing Human</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>7"</episodenumber>
+        <episodeNumber>7</episodeNumber>
         <title>Once More Unto the Breach</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>5"</episodenumber>
+        <episodeNumber>5</episodeNumber>
         <title>Once Upon a Time</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>14"</episodenumber>
+        <episodeNumber>14</episodeNumber>
         <title>One Little Ship</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>8"</episodenumber>
+        <episodeNumber>8</episodeNumber>
         <title>One Small Step</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>11"</episodenumber>
+        <episodeNumber>11</episodeNumber>
         <title>Parallels</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>10"</episodenumber>
+        <episodeNumber>10</episodeNumber>
         <title>Pathfinder</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>17"</episodenumber>
+        <episodeNumber>17</episodeNumber>
         <title>Penumbra</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>6"</episodenumber>
+        <episodeNumber>6</episodeNumber>
         <title>Phantasms</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>15"</episodenumber>
+        <episodeNumber>15</episodeNumber>
         <title>Power Play</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>24"</episodenumber>
+        <episodeNumber>24</episodeNumber>
         <title>Preemptive Strike</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>11"</episodenumber>
+        <episodeNumber>11</episodeNumber>
         <title>Prodigal Daughter</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>23"</episodenumber>
+        <episodeNumber>23</episodeNumber>
         <title>Profit and Lace</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>14"</episodenumber>
+        <episodeNumber>14</episodeNumber>
         <title>Prophecy</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>19"</episodenumber>
+        <episodeNumber>19</episodeNumber>
         <title>Q2</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>10"</episodenumber>
+        <episodeNumber>10</episodeNumber>
         <title>Rapture</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>7"</episodenumber>
+        <episodeNumber>7</episodeNumber>
         <title>Rascals</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>2"</episodenumber>
+        <episodeNumber>2</episodeNumber>
         <title>Realm of Fear</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>1"</episodenumber>
+        <episodeNumber>1</episodeNumber>
         <title>Redemption II</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>24"</episodenumber>
+        <episodeNumber>24</episodeNumber>
         <title>Relativity</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>4"</episodenumber>
+        <episodeNumber>4</episodeNumber>
         <title>Relics</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>24"</episodenumber>
+        <episodeNumber>24</episodeNumber>
         <title>Renaissance Man</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>13"</episodenumber>
+        <episodeNumber>13</episodeNumber>
         <title>Repentance</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>4"</episodenumber>
+        <episodeNumber>4</episodeNumber>
         <title>Repression</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>8"</episodenumber>
+        <episodeNumber>8</episodeNumber>
         <title>Resurrection</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>6"</episodenumber>
+        <episodeNumber>6</episodeNumber>
         <title>Riddles</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>23"</episodenumber>
+        <episodeNumber>23</episodeNumber>
         <title>Rightful Heir</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>2"</episodenumber>
+        <episodeNumber>2</episodeNumber>
         <title>Rocks and Shoals</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>6"</episodenumber>
+        <episodeNumber>6</episodeNumber>
         <title>Sacrifice of Angels</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>5"</episodenumber>
+        <episodeNumber>5</episodeNumber>
         <title>Schisms</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>24"</episodenumber>
+        <episodeNumber>24</episodeNumber>
         <title>Second Chances</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>2"</episodenumber>
+        <episodeNumber>2</episodeNumber>
         <title>Shadows and Symbols</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>11"</episodenumber>
+        <episodeNumber>11</episodeNumber>
         <title>Shattered</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>12"</episodenumber>
+        <episodeNumber>12</episodeNumber>
         <title>Ship in a Bottle</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>4"</episodenumber>
+        <episodeNumber>4</episodeNumber>
         <title>Silicon Avatar</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>21"</episodenumber>
+        <episodeNumber>21</episodeNumber>
         <title>Soldiers of the Empire</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>22"</episodenumber>
+        <episodeNumber>22</episodeNumber>
         <title>Someone to Watch Over Me</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>3"</episodenumber>
+        <episodeNumber>3</episodeNumber>
         <title>Sons and Daughters</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>17"</episodenumber>
+        <episodeNumber>17</episodeNumber>
         <title>Spirit Folk</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>18"</episodenumber>
+        <episodeNumber>18</episodeNumber>
         <title>Starship Mine</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>9"</episodenumber>
+        <episodeNumber>9</episodeNumber>
         <title>Statistical Probabilities</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>19"</episodenumber>
+        <episodeNumber>19</episodeNumber>
         <title>Strange Bedfellows</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>14"</episodenumber>
+        <episodeNumber>14</episodeNumber>
         <title>Sub Rosa</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>2"</episodenumber>
+        <episodeNumber>2</episodeNumber>
         <title>Survival Instinct</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>22"</episodenumber>
+        <episodeNumber>22</episodeNumber>
         <title>Suspicions</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>22"</episodenumber>
+        <episodeNumber>22</episodeNumber>
         <title>Tacking Into the Wind</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>4"</episodenumber>
+        <episodeNumber>4</episodeNumber>
         <title>Take Me Out to the Holosuite</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>15"</episodenumber>
+        <episodeNumber>15</episodeNumber>
         <title>Tapestry</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>26"</episodenumber>
+        <episodeNumber>26</episodeNumber>
         <title>Tears of the Prophets</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>9"</episodenumber>
+        <episodeNumber>9</episodeNumber>
         <title>The Ascent</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>5"</episodenumber>
+        <episodeNumber>5</episodeNumber>
         <title>The Assignment</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>12"</episodenumber>
+        <episodeNumber>12</episodeNumber>
         <title>The Begotten</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>20"</episodenumber>
+        <episodeNumber>20</episodeNumber>
         <title>The Changing Face of Evil</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>20"</episodenumber>
+        <episodeNumber>20</episodeNumber>
         <title>The Chase</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>11"</episodenumber>
+        <episodeNumber>11</episodeNumber>
         <title>The Darkness and the Light</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>17"</episodenumber>
+        <episodeNumber>17</episodeNumber>
         <title>The Disease</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>24"</episodenumber>
+        <episodeNumber>24</episodeNumber>
         <title>The Dogs of War</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>12"</episodenumber>
+        <episodeNumber>12</episodeNumber>
         <title>The Emperor's New Cloak</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>19"</episodenumber>
+        <episodeNumber>19</episodeNumber>
         <title>The Fight</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>19"</episodenumber>
+        <episodeNumber>19</episodeNumber>
         <title>The First Duty</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>6"</episodenumber>
+        <episodeNumber>6</episodeNumber>
         <title>The Game</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>25"</episodenumber>
+        <episodeNumber>25</episodeNumber>
         <title>The Haunting of Deck Twelve</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>25"</episodenumber>
+        <episodeNumber>25</episodeNumber>
         <title>The Inner Light</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>10"</episodenumber>
+        <episodeNumber>10</episodeNumber>
         <title>The Magnificent Ferengi</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>13"</episodenumber>
+        <episodeNumber>13</episodeNumber>
         <title>The Masterpiece Society</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>24"</episodenumber>
+        <episodeNumber>24</episodeNumber>
         <title>The Next Phase</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>17"</episodenumber>
+        <episodeNumber>17</episodeNumber>
         <title>The Outcast</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>12"</episodenumber>
+        <episodeNumber>12</episodeNumber>
         <title>The Pegasus</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>21"</episodenumber>
+        <episodeNumber>21</episodeNumber>
         <title>The Perfect Mate</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>9"</episodenumber>
+        <episodeNumber>9</episodeNumber>
         <title>The Quality of Life</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>21"</episodenumber>
+        <episodeNumber>21</episodeNumber>
         <title>The Reckoning</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>2"</episodenumber>
+        <episodeNumber>2</episodeNumber>
         <title>The Ship</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>8"</episodenumber>
+        <episodeNumber>8</episodeNumber>
         <title>The Siege of AR-558</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>25"</episodenumber>
+        <episodeNumber>25</episodeNumber>
         <title>The Sound of Her Voice</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>15"</episodenumber>
+        <episodeNumber>15</episodeNumber>
         <title>The Void</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>9"</episodenumber>
+        <episodeNumber>9</episodeNumber>
         <title>The Voyager Conspiracy</title>
     </episode>
     <episode season="TNG Season 7" uid="SAMA0000001639" number="7">
-        <episodenumber>16"</episodenumber>
+        <episodeNumber>16</episodeNumber>
         <title>Thine Own Self</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>8"</episodenumber>
+        <episodeNumber>8</episodeNumber>
         <title>Things Past</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>20"</episodenumber>
+        <episodeNumber>20</episodeNumber>
         <title>Think Tank</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>9"</episodenumber>
+        <episodeNumber>9</episodeNumber>
         <title>Thirty Days</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>19"</episodenumber>
+        <episodeNumber>19</episodeNumber>
         <title>Ties of Blood and Water</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>26"</episodenumber>
+        <episodeNumber>26</episodeNumber>
         <title>Time's Arrow</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>1"</episodenumber>
+        <episodeNumber>1</episodeNumber>
         <title>Time's Arrow, Part II</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>24"</episodenumber>
+        <episodeNumber>24</episodeNumber>
         <title>Time's Orphan</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>6"</episodenumber>
+        <episodeNumber>6</episodeNumber>
         <title>Timeless</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>25"</episodenumber>
+        <episodeNumber>25</episodeNumber>
         <title>Timescape</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>4"</episodenumber>
+        <episodeNumber>4</episodeNumber>
         <title>Tinker Tenor Doctor Spy</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>6"</episodenumber>
+        <episodeNumber>6</episodeNumber>
         <title>Treachery, Faith and the Great River</title>
     </episode>
     <episode season="DS9 Season 5" uid="SAMA0000001739" number="5">
-        <episodenumber>6"</episodenumber>
+        <episodeNumber>6</episodeNumber>
         <title>Trials and Tribble-ations</title>
     </episode>
     <episode season="TNG Season 6" uid="SAMA0000001638" number="6">
-        <episodenumber>6"</episodenumber>
+        <episodeNumber>6</episodeNumber>
         <title>True Q</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>15"</episodenumber>
+        <episodeNumber>15</episodeNumber>
         <title>Tsunkatse</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>7"</episodenumber>
+        <episodeNumber>7</episodeNumber>
         <title>Unification I</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>8"</episodenumber>
+        <episodeNumber>8</episodeNumber>
         <title>Unification II</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>26"</episodenumber>
+        <episodeNumber>26</episodeNumber>
         <title>Unimatrix Zero</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>1"</episodenumber>
+        <episodeNumber>1</episodeNumber>
         <title>Unimatrix Zero, Part II</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>22"</episodenumber>
+        <episodeNumber>22</episodeNumber>
         <title>Valiant</title>
     </episode>
     <episode season="TNG Season 5" uid="SAMA0000001637" number="5">
-        <episodenumber>12"</episodenumber>
+        <episodeNumber>12</episodeNumber>
         <title>Violations</title>
     </episode>
     <episode season="VOY Season 6" uid="SAMA0000001754" number="6">
-        <episodenumber>13"</episodenumber>
+        <episodeNumber>13</episodeNumber>
         <title>Virtuoso</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>11"</episodenumber>
+        <episodeNumber>11</episodeNumber>
         <title>Waltz</title>
     </episode>
     <episode season="VOY Season 5" uid="SAMA0000001753" number="5">
-        <episodenumber>25"</episodenumber>
+        <episodeNumber>25</episodeNumber>
         <title>Warhead</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>25"</episodenumber>
+        <episodeNumber>25</episodeNumber>
         <title>What You Leave Behind</title>
     </episode>
     <episode season="DS9 Season 7" uid="SAMA0000001741" number="7">
-        <episodenumber>21"</episodenumber>
+        <episodeNumber>21</episodeNumber>
         <title>When It Rains...</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>12"</episodenumber>
+        <episodeNumber>12</episodeNumber>
         <title>Who Mourns for Morn?</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>16"</episodenumber>
+        <episodeNumber>16</episodeNumber>
         <title>Workforce</title>
     </episode>
     <episode season="VOY Season 7" uid="SAMA0000001755" number="7">
-        <episodenumber>17"</episodenumber>
+        <episodeNumber>17</episodeNumber>
         <title>Workforce, Part II</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>17"</episodenumber>
+        <episodeNumber>17</episodeNumber>
         <title>Wrongs Darker Than Death or Night</title>
     </episode>
     <episode season="DS9 Season 6" uid="SAMA0000001740" number="6">
-        <episodenumber>7"</episodenumber>
+        <episodeNumber>7</episodeNumber>
         <title>You Are Cordially Invited</title>
     </episode>
 </episodes>
