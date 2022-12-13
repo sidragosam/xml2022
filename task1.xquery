@@ -13,4 +13,4 @@ declare function local:getEpisodeByName($name){
 
 let $result :=local:getEpisodeByName("Prototype")
 
-return array {$result}
+return $result
