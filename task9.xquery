@@ -30,7 +30,7 @@ let $document :=
     <character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="task9.xsd" title="{$episodetitle}" uid="{$character?uid}">
             <name>{$character?name}</name>
-            <birthday>{$character?yearOfBirth}-{$character?monthOfBirth}-{$character?dayOfBirth}</birthday>
+            <birthday>{xs:date(fn:concat($character?yearOfBirth,'-',fn:format-number(xs:int($character?monthOfBirth),'99'),'-',fn:format-number(xs:int($character?dayOfBirth), '99')))}</birthday>
             <gender>{$character?gender}</gender>
             <height>{$character?height}</height>
     </character>
